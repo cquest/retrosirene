@@ -6,7 +6,7 @@ Ces scripts permettent de regénérer des fichiers au plus proche de l'ancien mo
 
 ## Outils utilisés
 
-- Postgresql (>= 9.5)
+- Postgresql (>= 9.5 pour les index BRIN)
 - csvkit (https://csvkit.readthedocs.io/en/stable/)
 - commandes bash classiques: unzip, zcat, sed
 
@@ -18,6 +18,6 @@ Ce script charge dans la base Postgresql:
 - les nomenclatures d'activité NAP/NAF (1973, 1993, 2003, 2008)
 - le Code Officiel Géographique (communes et régions)
 - la table d'appartenance des communes à différents zonages (EPCI, Unités Urbaines, etc)
-- les données stock SIRENE selon le nouveau modèle
+- les données stock SIRENE selon le nouveau modèle, une fois géocodés
 
-Il créé ensuite une vue "sirene2017" s'approchant du modèle de donnée de 2017.
+Il créé ensuite une vue "sirene2017" s'approchant au mieux du modèle de donnée de 2017, certains champs n'ayant pas pu être reconstitués.
