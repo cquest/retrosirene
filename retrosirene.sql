@@ -76,7 +76,7 @@ SELECT
   a_si.libelle as LIBAPEN,
   null as DAPEN,
   null as APRM,
-  null as ESS,
+  sh.economiesocialesolidaireunitelegale as ESS,
   null as DATEESS,
   s.trancheeffectifsunitelegale as TEFEN,
   null as LIBTEFEN,
