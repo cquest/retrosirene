@@ -37,7 +37,7 @@ SELECT
   g.ze2010 as zemet,
   case when e.etablissementsiege = 'true' then '1' else '0' end as siege,
   e.enseigne1etablissement as enseigne,
-  null as ind_publipo,
+  e.etatadministratifetablissement as ind_publipo,
   null as diffcom,
   left(replace(e.datedebut,'-',''),6) as amintret,
   null as natetab,
