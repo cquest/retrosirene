@@ -49,9 +49,8 @@ psql $DB -c "create index on nj (code);"
 
 
 # création de la table SIREN (entreprises)
-psql $DB -c "create table siren_temp (`unzip -c StockUniteLegale_utf8.csv | head -n 1 | sed 's/,/ text,/g;s/$/ text/'`);"
-# import
-unzip -c StockUniteLegale_utf8.csv.zip | psql $DB -c "\copy siren_temp from stdin with (format csv, header true)"
+psql $DB -c "create table siren_temp (`unzip -p StockUniteLegale_utf8.csv | head -n 1 | sed 's/,/ text,/g;s/$/ text/'`);"
+unzip -p StockUniteLegale_utf8.csv.zip | psql $DB -c "\copy siren_temp from stdin with (format csv, header true)"
 # optimisation: clustering de la table sur SIREN
 psql $DB -c "create table siren as (select * from siren_temp order by siren); drop table siren_temp;"
 # création d'un index rapide (BRIN) sur SIREN
