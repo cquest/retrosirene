@@ -60,7 +60,7 @@ SELECT
   null as prodet,
   null as prodpart,
   null as auxilt,
-  coalesce(enseigne1etablissement, nomunitelegale) as nomen_long,
+  coalesce(regexp_replace(nomunitelegale||'*'||prenom1unitelegale||'/'||coalesce(prenom2unitelegale,'')||'/'||coalesce(prenom3unitelegale,'')||'/'||coalesce(prenom4unitelegale,'')||'/','//+','/'), e.enseigne1etablissement, nomunitelegale) as nomen_long,
   sigleunitelegale as sigle,
   nomunitelegale as NOM,
   prenom1unitelegale as PRENOM,
