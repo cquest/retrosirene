@@ -18,6 +18,8 @@ Ce script charge dans la base Postgresql:
 - les nomenclatures d'activité NAP/NAF (1973, 1993, 2003, 2008)
 - le Code Officiel Géographique (communes et régions)
 - la table d'appartenance des communes à différents zonages (EPCI, Unités Urbaines, etc)
+- les libellés de natures juridiques d'entreprises
+- la population légale des communes
 - les données stock SIRENE selon le nouveau modèle, une fois géocodés
 
 Il créé ensuite une vue "sirene2017" s'approchant au mieux du modèle de donnée de 2017, certains champs n'ayant pas pu être reconstitués.
