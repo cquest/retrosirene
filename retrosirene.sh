@@ -65,6 +65,22 @@ psql $DB -c "create table siret as (select * from siret_temp order by siret); dr
 # création d'un index rapide (BRIN) sur SIREN et SIRET
 psql $DB -c "create index on siret using brin (siren); create index on siret using brin (siret);"
 
+# création des tables de variables historisées
+psql $DB -c "create table siren_histo (`unzip -p stockunitelegalehistorique-utf8.zip | head -n 1 | sed 's/,/ text,/g;s/$/ text/'`);"
+unzip -p stockunitelegalehistorique-utf8.zip | psql $DB -c "\copy siren_histo from stdin with (format csv, header true)"
+psql $DB -c "create index on siren_histo (siren);"
+psql $DB -c "create table siret_histo (`unzip -p stocketablissementhistorique-utf8.zip | head -n 1 | sed 's/,/ text,/g;s/$/ text/'`);"
+unzip -p stocketablissementhistorique-utf8.zip | psql $DB -c "\copy siret_histo from stdin with (format csv, header true)"
+psql $DB -c "create index on siret_histo (siren); create index on siret_histo (siret);"
+
+
+# création de la vue sirene2017
+psql $DB < retrosirene.sql
+
+# export des établissements selon le modèle 2017
+psql $DB -c "\copy (select * from sirene2017 where ind_publipo = 'A') to 'etablissements_actifs.csv' with (format csv, header true);"
+psql $DB -c "\copy (select * from sirene2017 where ind_publipo = 'F') to 'etablissements_fermes.csv' with (format csv, header true);"
+
 
 exit
 
