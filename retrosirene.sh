@@ -58,7 +58,6 @@ psql $DB -c "create index on siren using brin (siren);"
 
 # création de la table des établissements
 psql $DB -c "create table siret_temp (`zcat StockEtablissement_utf8_geo.csv.gz | head -n 1 | sed 's/,/ text,/g;s/$/ text/'`);"
-# import depuis fichier géocodé
 zcat StockEtablissement_utf8_geo.csv.gz | psql $DB -c "\copy siret_temp from stdin with (format csv, header true)"
 # optimisation: clustering de la table sur SIRET
 psql $DB -c "create table siret as (select * from siret_temp order by siret); drop table siret_temp"
