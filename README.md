@@ -1,8 +1,8 @@
 # Rétrocompatibilité des fichiers SIRENE 2019 / 2017
 
-Depuis octobre 2018, l'INSEE diffuse les fichiers de la base SIRENE avec un nouveau modèle de données.
+Depuis octobre 2018, l'INSEE diffuse les fichiers stock de la base SIRENE avec un nouveau modèle de données.
 
-Ces scripts permettent de regénérer des fichiers au plus proche de l'ancien modèle.
+Ces scripts permettent de regénérer des fichiers stock au plus proche de l'ancien modèle.
 
 ## Outils utilisés
 
@@ -23,3 +23,9 @@ Ce script charge dans la base Postgresql:
 - les données stock SIRENE selon le nouveau modèle, une fois géocodés
 
 Il créé ensuite une vue "sirene2017" s'approchant au mieux du modèle de donnée de 2017, certains champs n'ayant pas pu être reconstitués.
+
+## Fichiers tests téléchargeables
+
+Les fichiers finaux générés par ces scripts sont téléchargeables sur: http://data.cquest.org/geo_sirene/beta/
+
+Leur contenu évolue encore rapidement au fur et à mesure des améliorations apportées aux scripts.
