@@ -41,6 +41,11 @@ psql $DB -c "create table geo_com (`head geo_com.csv -n 1 | sed 's/,/ text,/g;s/
 psql $DB -c "\copy geo_com from geo_com.csv with (format csv, header true)"
 psql $DB -c "create index on geo_com (codgeo);"
 
+# natures juridiques
+in2csv cj_juillet_2018.xls --sheet 'Niveau III' -K 3 > cj_juillet_2018.csv
+psql $DB -c "create table nj (`head cj_juillet_2018.csv -n 1 | sed 's/,/ text,/g;s/$/ text/'`);"
+psql $DB -c "\copy nj from cj_juillet_2018.csv with (format csv, header true)"
+psql $DB -c "create index on nj (code);"
 
 
 # création de la table SIREN (entreprises)
