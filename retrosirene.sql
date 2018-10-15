@@ -70,9 +70,9 @@ SELECT
   c_siege.reg as RPEN,
   siege.codecommuneetablissement as DEPCOMEN,
   null as ADR_MAIL,
-  categoriejuridiqueunitelegale as NJ,
-  null as LIBNJ,
-  replace(activiteprincipaleunitelegale,'.','') as APEN700,
+  s.categoriejuridiqueunitelegale as NJ,
+  nj.libellé as LIBNJ,
+  replace(s.activiteprincipaleunitelegale,'.','') as APEN700,
   a_si.libelle as LIBAPEN,
   null as DAPEN,
   null as APRM,
@@ -112,8 +112,10 @@ SELECT
 FROM siret e
 JOIN siren s ON (e.siren=s.siren)
 JOIN siret siege ON (siege.siret=s.siren||nicsiegeunitelegale)
+LEFT JOIN siren_histo sh ON (sh.siren=e.siret and sh.datefin is null)
 LEFT JOIN activite a_et ON (a_et.nomenclature = e.nomenclatureactiviteprincipaleetablissement and a_et.code = e.activiteprincipaleetablissement)
-LEFT JOIN activite a_si ON (a_si.nomenclature = nomenclatureactiviteprincipaleunitelegale and a_si.code = activiteprincipaleunitelegale)
+LEFT JOIN activite a_si ON (a_si.nomenclature = s.nomenclatureactiviteprincipaleunitelegale and a_si.code = s.activiteprincipaleunitelegale)
+LEFT JOIN nj ON (nj.code = s.categoriejuridiqueunitelegale)
 LEFT JOIN cog c ON (e.codecommuneetablissement = c.depcom and c.actual='1')
 LEFT JOIN cog c_siege ON (siege.codecommuneetablissement = c_siege.depcom and c_siege.actual='1')
 LEFT JOIN cog_reg r ON (r.region = c.reg and c.actual='1')
