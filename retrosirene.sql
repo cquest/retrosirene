@@ -33,7 +33,7 @@ SELECT
   g.tuu2015 as tu,
   g.uu2010 as uu,
   g.epci as epci,
-  null as tcd,
+  p.tcd as tcd,
   g.ze2010 as zemet,
   case when e.etablissementsiege = 'true' then '1' else '0' end as siege,
   e.enseigne1etablissement as enseigne,
@@ -119,4 +119,5 @@ LEFT JOIN nj ON (nj.code = s.categoriejuridiqueunitelegale)
 LEFT JOIN cog c ON (e.codecommuneetablissement = c.depcom and c.actual='1')
 LEFT JOIN cog c_siege ON (siege.codecommuneetablissement = c_siege.depcom and c_siege.actual='1')
 LEFT JOIN cog_reg r ON (r.region = c.reg and c.actual='1')
-LEFT JOIN geo_com g ON (g.codgeo = e.codecommuneetablissement);
+LEFT JOIN geo_com g ON (g.codgeo = e.codecommuneetablissement)
+LEFT JOIN poplegale p ON (p.com = e.codecommuneetablissement);

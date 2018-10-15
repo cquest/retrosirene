@@ -47,6 +47,17 @@ psql $DB -c "create table nj (`head cj_juillet_2018.csv -n 1 | sed 's/,/ text,/g
 psql $DB -c "\copy nj from cj_juillet_2018.csv with (format csv, header true)"
 psql $DB -c "create index on nj (code);"
 
+# population légale
+in2csv Fichier_poplegale_6815.xls --sheet 2015 -K 7 > poplegale.csv
+psql $DB -c "create table poplegale (`head poplegale.csv -n 1 | sed 's/,/ text,/g;s/$/ text/'`);"
+psql $DB -c "\copy poplegale from poplegale.csv with (format csv, header true)"
+psql $DB -c "alter table poplegale alter pmun15 type numeric USING pmun15::numeric; create index on poplegale (com);"
+TCD="01=49 02=99 03=149 03=199 05=349 06=299 07=399 08=499 11=699 12=999 13=1499 14=1999 15=2499 16=2999 17=3999 18=4999 21=6999 22=9999 31=14999 32=19999 41=24999 42=29999 43=39999 44=49999 51=69999 52=99999 61=149999 62=199999 71=299999 72=499999 73=1499999 80=1500000"
+for t in $TCD
+do
+  psql $DB -c "UPDATE poplegale SET tcd ='`echo $t | sed 's/=/\x27 WHERE tcd is null and pmun15<=/'`;"
+done
+psql $DB -c "UPDATE poplegale SET tcd = '80' where com like '75%';"
 
 # création de la table SIREN (entreprises)
 psql $DB -c "create table siren_temp (`unzip -p StockUniteLegale_utf8.csv | head -n 1 | sed 's/,/ text,/g;s/$/ text/'`);"
