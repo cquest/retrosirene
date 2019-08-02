@@ -1,12 +1,14 @@
+#! /bin/bash
+
 # script de chargement et export permettant de regénérer
 # les fichiers stocks mensuels SIRENE au plus proche du format de 2017
 
-DB=$1
+DB=sirene
 
-wget -c http://files.data.gouv.fr/insee-sirene/StockUniteLegale_utf8.zip
-wget -c http://files.data.gouv.fr/insee-sirene/StockUniteLegaleHistorique_utf8.zip
-wget -c http://files.data.gouv.fr/insee-sirene/StockEtablissementHistorique_utf8.zip
-wget -c http://data.cquest.org/geo_sirene/v2019/last/StockEtablissement_utf8_geo.csv.gz
+wget -N -c http://files.data.gouv.fr/insee-sirene/StockUniteLegale_utf8.zip
+wget -N -c http://files.data.gouv.fr/insee-sirene/StockUniteLegaleHistorique_utf8.zip
+wget -N -c http://files.data.gouv.fr/insee-sirene/StockEtablissementHistorique_utf8.zip
+wget -N -c http://data.cquest.org/geo_sirene/v2019/last/StockEtablissement_utf8_geo.csv.gz
 
 # création de la table SIREN (entreprises)
 psql $DB -c "create table siren_temp (`unzip -p StockUniteLegale_utf8.zip | head -n 1 | sed 's/,/ text,/g;s/$/ text/'`);"
