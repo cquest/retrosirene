@@ -1,0 +1,651 @@
+NAP,NAP600,LIB_NAP600
+NAP,1.00,Cultures générales
+NAP,1.07,Cultures générales associées à d'autres activités agricoles
+NAP,1.10,"Production de légumes frais, de fleurs; pépinières"
+NAP,1.16,Cultures fruitières
+NAP,1.17,Viticulture
+NAP,1.30,Vinification
+NAP,1.50,Elevage de bovins
+NAP,1.56,Elevage de bovins associé à d'autres activités agricoles
+NAP,1.57,"Elevage d'ovins, caprins, équins"
+NAP,1.60,Elevage de porcins
+NAP,1.63,Aviculture
+NAP,1.70,Productions agricoles diverses
+NAP,1.74,Chasse et piégeage
+NAP,1.80,Travaux agricoles à façon
+NAP,1.90,Services effectués au profit de l'élevage
+NAP,2.10,Sylviculture et services aux forêts
+NAP,2.20,Exploitation forestière
+NAP,3.10,Pêche en mer
+NAP,3.20,Conchyliculture
+NAP,3.30,Pisciculture et pêche en eau douce
+NAP,3.40,Culture et récolte de produits marins divers
+NAP,35.01,Abattage du bétail
+NAP,35.04,Fabrication de charcuterie et de conserves de viandes
+NAP,35.05,Abattage de volaille
+NAP,36.10,Industrie laitière
+NAP,36.20,"Fabrication de crèmes glacées, glaces et sorbets"
+NAP,37.01,Conserverie de fruits et confitures
+NAP,37.02,Conserverie de légumes
+NAP,37.03,Conserverie de poissons
+NAP,37.04,Préparation de plats cuisinés
+NAP,38.10,Fabrication industrielle de pain et de pâtisserie fraîche
+NAP,38.40,"Boulangerie, pâtisserie"
+NAP,38.50,Pâtisserie
+NAP,39.01,Meunerie
+NAP,39.02,"Biscuiterie, biscotterie"
+NAP,39.03,Semoulerie
+NAP,39.04,Fabrication de pâtes alimentaires et de couscous
+NAP,39.05,Transformation de céréales secondaires
+NAP,39.06,Malterie
+NAP,39.07,Fabrication de produits amylacés
+NAP,39.08,Fabrication d'aliments pour animaux
+NAP,40.11,Fabrication d'huiles et corps gras bruts
+NAP,40.12,Fabrication d'huiles et corps gras raffinés et de margarine
+NAP,40.21,"Sucreries, raffineries de sucre"
+NAP,40.31,"Chocolaterie, confiserie"
+NAP,40.32,"Torréfaction et brûlerie de café, thé, chicorée et infusions, préparation d'épices et herbes aromatiques"
+NAP,40.33,"Fabrication de condiments, vinaigre, sauces préparées"
+NAP,40.34,"Fabrication d'aliments diététiques, aliments pour bébé, produits de régime"
+NAP,40.35,"Fabrication d'entremets, desserts ménagers et petits déjeuners"
+NAP,40.36,Fabrication de bouillons et potages
+NAP,40.37,Fabrication de produits alimentaires divers
+NAP,41.01,Distillation d'alcool
+NAP,41.02,Distillation d'eau de vie naturelle
+NAP,41.03,Production de liqueurs et apéritifs alcoolisés autres qu'à base de vin
+NAP,41.04,Production d'apéritifs à base de vin
+NAP,41.05,Champagnisation
+NAP,41.06,Brasserie
+NAP,41.07,Cidrerie
+NAP,41.08,Production de jus de fruits et de légumes
+NAP,41.09,Fabrication de boissons non alcoolisées élaborées
+NAP,41.10,Production d'eaux minérales naturelles
+NAP,42.01,Transformation du tabac
+NAP,4.11,Production de combustibles minéraux solides
+NAP,4.21,Cokéfaction
+NAP,5.11,Extraction de pétrole
+NAP,5.21,Extraction de gaz naturel
+NAP,5.31,Raffinage de pétrole
+NAP,6.01,Production et distribution d'électricité
+NAP,7.01,Distribution de gaz
+NAP,8.01,Production et distribution d'eau
+NAP,8.02,Chauffage urbain et distribution d'énergies diverses
+NAP,9.01,Extraction et préparation de minerai de fer
+NAP,10.01,Sidérurgie
+NAP,11.01,Tréfilage de l'acier et production des dérivés du fil d'acier
+NAP,11.02,Laminage à froid du feuillard d'acier
+NAP,11.03,Etirage et profilage des produits pleins en acier
+NAP,11.04,Profilage des produits plats en acier
+NAP,11.05,Fabrication de tubes d'acier
+NAP,12.01,Extraction et préparation de bauxite
+NAP,12.02,"Extraction et préparation de minerais de plomb, zinc et cuivre"
+NAP,12.03,Extraction de minerais contenant des matières fissiles et fer
+NAP,12.04,Extraction et préparation d'autres minerais métalliques
+NAP,13.01,Métallurgie de l'aluminium et des autres métaux légers
+NAP,13.02,"Métallurgie du plomb, du zinc, du cadmium"
+NAP,13.03,Métallurgie des métaux précieux
+NAP,13.04,Métallurgie des ferro-alliages
+NAP,13.05,Production d'autres métaux non ferreux
+NAP,13.10,Fabrication de demi-produits en aluminium et autres métaux légers
+NAP,13.11,"Fabrication de demi-produits en plomb, zinc et cadmium"
+NAP,13.12,Fabrication de demi-produits en cuivre
+NAP,13.13,Fabrication de demi-produits en métaux précieux
+NAP,13.14,Fabrication d'autres demi-produits non ferreux
+NAP,13.15,Production et transformation de matières fissiles
+NAP,13.16,Production et transformation de matières fertiles
+NAP,14.01,Production de sels (chlorure de sodium et sels divers) ; marais salants
+NAP,14.02,Production de matériaux de carrière pour l'industrie
+NAP,14.03,"Production de minéraux divers : asphalte, talc etc.."
+NAP,15.01,Extraction de sables et graviers d'alluvions
+NAP,15.02,Production de matériaux concassés de roche et de laitier
+NAP,15.03,Production de pierres de construction
+NAP,15.04,"Extraction d'argiles, kaolin, terres réfractaires"
+NAP,15.05,Fabrication de plâtres et de produits en plâtre
+NAP,15.06,Fabrication de chaux et ciments
+NAP,15.07,Préparation et livraison de béton prêt à l'emploi
+NAP,15.08,Fabrication de produits en béton
+NAP,15.09,Fabrication de matériaux de construction divers
+NAP,15.10,Fabrication de tuiles et briques
+NAP,15.11,Fabrication de produits réfractaires
+NAP,15.12,"Fabrication de produits en grès, en faïence, en autres matières céramiques"
+NAP,15.13,Fabrication de vaisselle de ménage en céramique
+NAP,16.01,"Fabrication façonnage et transformation de verre plat, miroiterie"
+NAP,16.02,"Fabrication façonnage et transformation de verre creux mécanique, de verrerie de ménage"
+NAP,16.03,Fabrication de verre à la main
+NAP,16.04,Fabrication de verre technique
+NAP,17.12,Industrie de l'acide sulfurique et des produits dérivés
+NAP,17.13,Fabrication de produits chimiques par électrolyse ou électrothermie
+NAP,17.14,Fabrication de gaz comprimés
+NAP,17.15,Fabrication d'opacifiants minéraux compositions et couleurs pour émaux
+NAP,17.16,Fabrication de produits divers de la chimie minérale
+NAP,17.17,Fabrication d'engrais azotés et autres produits azotés
+NAP,17.18,Fabrication d'engrais phosphatés
+NAP,17.19,Fabrication d'autres engrais
+NAP,17.21,Chimie organique de synthèse
+NAP,17.22,Fabrication de matières colorantes de synthèse
+NAP,17.23,Traitement chimique des corps gras notamment stéarinerie et glycérinerie ; fabrication de produits de base pour détergents
+NAP,17.24,Fabrication de produits de base pour la pharmacie
+NAP,17.25,"Fabrication de produits auxiliaires pour les industries textiles, du cuir et du caoutchouc, transformation de matières animales et végétales"
+NAP,17.26,Fabrication et distillation de goudrons
+NAP,17.27,Fabrication de matières plastiques
+NAP,17.28,Fabrication de caoutchouc synthétique et autres élastomères
+NAP,17.29,"Fabrication d'huiles essentielles, d'arômes naturels et synthétiques"
+NAP,43.01,Production de fibres discontinues et de fils continus artificiels
+NAP,43.02,Production de fibres discontinues et de fils continus synthétiques
+NAP,20.01,Fonderie de métaux ferreux
+NAP,20.02,Fonderie de métaux non ferreux
+NAP,21.01,"Forge, estampage, matriçage"
+NAP,21.02,"Découpage, emboutissage"
+NAP,21.03,Traitement et revêtement des métaux
+NAP,21.04,Décolletage
+NAP,21.05,"Boulonnerie, visserie"
+NAP,21.06,Construction métallique
+NAP,21.07,Menuiserie métallique de bâtiment
+NAP,21.08,"Mécanique générale, fabrication de moules et modèles"
+NAP,21.09,"Fabrication d'outillage à main, d'outillage électroportatif, d'outillage agricole"
+NAP,21.10,Fabrication de ressorts
+NAP,21.11,Fabrication de quincaillerie
+NAP,21.12,"Ferblanterie, fabrication d'articles de ménage, de coutellerie"
+NAP,21.13,Fabrication de mobilier métallique
+NAP,21.14,"Fabrication de fûts et tonnelets métalliques, de boîtes et emballages métalliques fabrication de conditionnements métalliques"
+NAP,21.15,Fabrication de petits articles métalliques
+NAP,21.16,"Frittage des métaux, fabrication d'aimants permanents"
+NAP,21.17,"Fabrication d'armes de chasse, de tir, de défense"
+NAP,50.01,Fabrication de pâtes à papier
+NAP,50.02,Fabrication de papiers et de cartons
+NAP,50.03,Fabrication d'articles de papeterie
+NAP,50.04,Transformation du papier
+NAP,50.06,Fabrication de carton ondulé et de produits en carton ondulé
+NAP,50.07,Fabrication de cartonnages
+NAP,52.01,Fabrication de pneumatiques et chambres à air
+NAP,52.02,Rechapage et réparation industrielle de pneumatiques
+NAP,52.03,Fabrication d'ouvrages en caoutchouc
+NAP,52.04,Fabrication d'ouvrages en amiante
+NAP,53.01,"Fabrication de mélanges, plaques, feuilles, films, tubes, tuyaux et profilés"
+NAP,53.02,Fabrication de pièces diverses pour l'industrie
+NAP,53.03,Fabrication d'emballages en matières plastiques
+NAP,53.04,Fabrication d'éléments pour le bâtiment
+NAP,53.05,Fabrication de produits de consommation divers
+NAP,53.06,Fabrication de pellicules cellulosiques
+NAP,22.01,Fabrication de tracteurs agricoles
+NAP,22.02,Fabrication d'autre matériel agricole
+NAP,23.01,Fabrication de machines-outils à métaux
+NAP,23.02,Fabrication de machines à bois
+NAP,23.03,"Fabrication d'outillage, outils pour machines"
+NAP,23.04,Fabrication d'engrenages et organes de transmission
+NAP,23.05,Fabrication de matériel de soudage
+NAP,24.01,Robinetterie
+NAP,24.02,Fabrication et installation de fours
+NAP,24.03,"Fabrication et installation de matériel aéraulique, thermique et frigorifique"
+NAP,24.04,Fabrication de moteurs à combustion interne autres que pour l'automobile et l'aéronautique
+NAP,24.05,Fabrication de transmissions hydrauliques et pneumatiques
+NAP,24.06,Fabrication de pompes et compresseurs
+NAP,24.07,Fabrication de turbines thermiques et hydrauliques et d'équipements de barrages
+NAP,24.08,Chaudronnerie
+NAP,24.09,"Fabrication de machines pour les industries alimentaires chimiques, plastiques et de machines à chaussures"
+NAP,24.10,Fabrication de machines pour les industries textiles et de machines à coudre industrielles
+NAP,24.11,"Fabrication de machines pour les industries du papier, du carton et des arts graphiques"
+NAP,25.01,Fabrication de matériel de travaux publics
+NAP,25.02,"Fabrication de matériel pour la sidérurgie pour la fonderie, pour la préparation des matériaux, matériel fixe de chemin de fer"
+NAP,25.03,Fabrication de matériel de manutention et de levage
+NAP,25.04,Fabrication de matériel de mines et de forage
+NAP,34.01,Horlogerie
+NAP,34.02,"Fabrication d'appareils de pesage et de compteurs, d'instruments de métrologie"
+NAP,34.03,Fabrication de lunettes pour la correction et la protection de la vue
+NAP,34.04,Fabrication d'instruments d'optique et de précision
+NAP,34.05,Fabrication de matériel photographique et cinématographique
+NAP,34.06,Fabrication de matériel médico-chirurgical et de prothèses
+NAP,34.07,Fabrication de roulements
+NAP,27.01,Fabrication de matériel de traitement de l'information
+NAP,27.02,Fabrication de machines de bureau
+NAP,28.10,"Fabrication d'équipements de distribution, de commande à basse tension ; d'applications de l'électronique de puissance"
+NAP,28.11,Fabrication de matériel électrique de grande puissance ou à haute tension
+NAP,28.12,"Fabrication d'appareillage industriel à basse tension, de relais ; de matériel de signalisation"
+NAP,28.13,Fabrication de machines tournantes et transformateurs électriques de petite et moyenne puissance
+NAP,28.14,Fabrication d'isolateurs et pièces isolantes en verre et céramique
+NAP,28.15,Fabrication d'équipements d'automatisation de processus industriels
+NAP,28.16,Réparation de gros matériel électrique
+NAP,28.17,Fabrication de matériel d'éclairage
+NAP,28.18,Fabrication de fils et câbles isolés pour l'électricité
+NAP,28.19,"Fabrication et installation d'ascenseurs, monte-charge et escaliers mécaniques"
+NAP,28.21,Fabrication d'appareillage électrique d'installation
+NAP,28.22,Fabrication de piles électriques et appareils d'éclairage à bas voltage
+NAP,28.23,Fabrication d'accumulateurs
+NAP,28.24,Fabrication de lampes électriques
+NAP,29.11,Fabrication de matériel télégraphique et téléphonique
+NAP,29.12,Fabrication d'appareils de radiologie et d'électronique médicale
+NAP,29.13,"Fabrication d'appareils de contrôle et de régulation spécifiquement conçus pour l'automatisme industriel, d'instruments et d'appareils électriques et électroniques de mesure"
+NAP,29.14,Fabrication de matériel professionnel électronique et radioélectrique
+NAP,29.15,Fabrication de composants passifs et de condensateurs fixes
+NAP,29.16,Fabrication de tubes électroniques et de semi-conducteurs
+NAP,29.21,Fabrication d'appareils radiorécepteur et de téléviseurs
+NAP,29.22,Fabrication d'appareils d'enregistrement et de reproduction du son et de l'image et de supports d'enregistrement
+NAP,30.01,"Fabrication d'appareils frigorifiques domestiques, de machines à laver le linge et à laver la vaisselle"
+NAP,30.02,"Fabrication d'appareils ménagers de cuisine, de chauffage de l'eau et de chauffage de l'air non électriques"
+NAP,30.03,Fabrication d'autres appareils d'équipement ménager
+NAP,31.11,Construction de voitures particulières
+NAP,31.12,Construction de caravanes et remorques de tourisme
+NAP,31.13,Fabrication de pièces et équipements spécifiques pour automobiles
+NAP,31.14,Construction de véhicules utilitaires
+NAP,31.15,"Construction de carrosseries, bennes, remorques autres que de tourisme"
+NAP,31.16,Fabrication de motocycles et cycles
+NAP,31.17,Fabrication de pièces et équipements pour cycles et motocycles
+NAP,31.21,Fabrication et réparation de matériel ferroviaire roulant et d'autres matériels de transport guide
+NAP,26.01,Fabrication de véhicules blindés
+NAP,26.02,Fabrication d'armes et munitions de guerre
+NAP,32.01,Construction de bâtiments de guerre
+NAP,32.02,Construction de navires de marine marchande
+NAP,32.03,Construction d'autres bateaux
+NAP,32.04,Fabrication et pose d'équipements spécifiques de bord
+NAP,32.05,Réparation de navires
+NAP,33.01,Construction de cellules d'aéronefs
+NAP,33.02,Fabrication de propulseurs d'aéronefs et d'équipements de propulseurs
+NAP,33.03,Fabrication d'équipements spécifiques pour les aéronefs
+NAP,33.04,Construction d'engins et de lanceurs spatiaux
+NAP,18.01,Fabrication d'allumettes
+NAP,18.02,Fabrication d'abrasifs appliqués
+NAP,18.03,"Fabrication d'explosifs, d'accessoires de mise à feu et d'artifices"
+NAP,18.04,Fabrication de colles
+NAP,18.05,Fabrication de produits savonniers et de produits détergents
+NAP,18.06,Fabrication de produits de ménage et de produits d'entretien
+NAP,18.07,"Fabrication de peintures, vernis, couleurs fines, encres d'imprimerie"
+NAP,18.08,Fabrication de produits phytosanitaires
+NAP,18.09,Fabrication de produits photographiques et cinématographiques
+NAP,18.10,"Fabrication de charbons artificiels, de terres actives et de produits chimiques à usage métallurgique et mécanique"
+NAP,18.11,Parfumerie
+NAP,19.01,Fabrication de spécialités pharmaceutiques
+NAP,19.02,Fabrication d'autres produits pharmaceutiques
+NAP,44.10,"Préparation et commerce de la laine, délainage"
+NAP,44.11,"Préparation de lin, chanvre, et d'autres plantes textiles"
+NAP,44.12,Filterie
+NAP,44.13,Filature de lin et de chanvre
+NAP,44.14,Filature de l'industrie cotonnière
+NAP,44.15,Filature de l'industrie lainière - cycle cardé
+NAP,44.16,Filature de l'industrie lainière - cycle peigné
+NAP,44.17,Moulinage et texturation de la soie et des textiles artificiels et synthétiques
+NAP,44.18,"Teintures, apprêts et impressions"
+NAP,44.20,Fabrication d'étoffes à mailles
+NAP,44.21,"Fabrication de chandails, pull-over, polos, gilets etc... En bonneterie"
+NAP,44.22,Fabrication d'autres vêtements de dessus de bonneterie
+NAP,44.23,Fabrication de sous-vêtements de bonneterie
+NAP,44.24,Fabrication d'articles chaussants de bonneterie
+NAP,44.25,Fabrication d'autres articles de bonneterie
+NAP,44.30,Tissage des industries cotonnières et linières
+NAP,44.31,Tissage de l'industrie lainière
+NAP,44.32,Tissage de soierie
+NAP,44.33,Industrie du jute
+NAP,44.34,Fabrication de tapis
+NAP,44.35,Fabrication de feutre
+NAP,44.36,Fabrication d'étoffes non tissées ni tricotées
+NAP,44.37,Enduction d'étoffes
+NAP,44.38,Fabrication de produits textiles élastiques
+NAP,44.39,"Ficellerie, corderie, fabrication de filets"
+NAP,44.40,Ouaterie
+NAP,44.41,"Fabrication de dentelles, tulles, broderies et guipures"
+NAP,44.42,"Fabrication de rubans, tresses, passementeries et articles textiles divers"
+NAP,47.01,Confection de vêtements masculins
+NAP,47.02,Confection de vêtements féminins
+NAP,47.03,Confection de vêtements pour enfants
+NAP,47.04,Habillement sur mesure
+NAP,47.05,Confection de chemiserie et lingerie
+NAP,47.06,Confection de vêtements en matières plastiques
+NAP,47.07,"Confection de corsets, gaines et soutien-gorges"
+NAP,47.08,Confection de chapellerie pour hommes et femmes
+NAP,47.09,Fabrication d'accessoires divers de l'habillement
+NAP,47.10,Fabrication de pelleterie et fourrures
+NAP,45.11,"Tannerie, mégisserie"
+NAP,45.21,"Fabrication d'articles de maroquinerie, d'articles de voyage et de chasse"
+NAP,45.22,Fabrication de gants
+NAP,45.23,Fabrication d'articles divers en cuir et similaires
+NAP,46.01,Fabrication de chaussures et d'autres articles chaussants
+NAP,48.01,Scierie
+NAP,48.02,Fabrication d'éléments de charpente et de menuiseries de bâtiment
+NAP,48.03,"Fabrication de parquets, moulures et baguettes"
+NAP,48.04,"Fabrication et transformation de panneaux, bois de placage, bois améliorés et traités"
+NAP,48.05,Fabrication d'emballages en bois
+NAP,48.06,Fabrication de bâtiments préfabriqués légers
+NAP,48.07,Fabrication d'objets divers en bois
+NAP,49.01,Fabrication de meubles meublants
+NAP,49.02,Fabrication de sièges
+NAP,49.03,Fabrication de meubles de cuisine et meubles en bois blanc
+NAP,49.04,Fabrication de literie
+NAP,49.05,Fabrication de meubles divers et industries connexes à l'industrie de l'ameublement
+NAP,49.06,Fabrication de mobilier fonctionnel non métallique
+NAP,54.01,"Fabrication de jeux, jouets et d'articles de puériculture"
+NAP,54.02,Fabrication d'articles de sport et de campement
+NAP,54.03,Fabrication de bateaux de plaisance
+NAP,54.04,"Bijouterie, joaillerie"
+NAP,54.05,Fabrication d'instruments de musique
+NAP,54.06,Fabrication d'articles de bureau et d'articles de paris
+NAP,54.07,"Fabrication d'accessoires d'ameublement en bronze et fer forgé, statuettes et articles funéraires"
+NAP,54.08,"Fabrication d'articles de brosserie, d'articles de vannerie et d'articles en liège"
+NAP,54.09,Laboratoires photographiques et cinématographiques
+NAP,54.10,Fabrication d'articles divers non désignés ailleurs
+NAP,51.01,Agences de presse
+NAP,51.10,Imprimerie de labeur
+NAP,51.11,Industries connexes à l'imprimerie
+NAP,51.12,Edition
+NAP,51.20,Presse
+NAP,51.30,"Edition de disques, bandes et cassettes enregistrées"
+NAP,55.10,Travaux d'aménagement des terres et des eaux ; voirie ; parcs et jardins
+NAP,55.11,Construction de lignes de transport d'électricité
+NAP,55.12,Travaux d'infrastructure générale
+NAP,55.13,Construction de chaussées
+NAP,55.20,"Entreprises de forages, sondages ; fondations spéciales"
+NAP,55.30,Construction d'ossatures autres que métalliques
+NAP,55.31,"Installation industrielle, montage levage"
+NAP,55.40,Installation électrique
+NAP,55.50,Construction industrialisée
+NAP,55.60,Maçonnerie et travaux courants de béton armé
+NAP,55.70,Génie climatique
+NAP,55.71,Menuiserie-serrurerie
+NAP,55.72,"Couverture, plomberie, installations sanitaires"
+NAP,55.73,"Aménagements, finitions"
+NAP,57.01,Commerce de gros de matières premières agricoles
+NAP,57.02,Commerce de gros de bestiaux
+NAP,57.03,Commerce de gros de fruits et légumes
+NAP,57.04,Commerce de gros de viandes sans abattage
+NAP,57.05,Commerce de gros de produits laitiers
+NAP,57.06,Commerce de gros de volailles et gibiers
+NAP,57.07,Commerce de gros de poissons
+NAP,57.08,"Commerce de gros de vins, spiritueux, liqueurs"
+NAP,57.09,Commerce de gros d'autres boissons
+NAP,57.10,Commerce de gros d'épicerie
+NAP,57.11,Commerces de gros spécialisés de produits alimentaires divers
+NAP,58.01,Commerce de gros d'accessoires d'automobiles et de matériel de garage
+NAP,58.02,"Commerce de gros de pneumatiques, cycles et motocycles"
+NAP,58.03,Commerce de gros de quincaillerie et d'appareils ménagers
+NAP,58.04,Commerce de gros de matériel électrique et électronique
+NAP,58.05,Commerce de gros des textiles
+NAP,58.06,"Commerce de gros de l'habillement, des chaussures et de la maroquinerie"
+NAP,58.07,Commerce de gros de produits pharmaceutiques
+NAP,58.08,"Commerce de gros de parfumerie, produits de beauté"
+NAP,58.09,"Commerce de gros de droguerie, de produits d'entretien"
+NAP,58.10,Commerce de gros de céramique et verrerie
+NAP,58.11,"Commerce de gros de jouets, papeterie et articles de fumeurs"
+NAP,58.12,Commerces de gros divers
+NAP,59.01,Commerce des textiles bruts
+NAP,59.02,Commerce de gros de cuirs et peaux
+NAP,59.03,"Commerce de gros de charbon, minerais et minéraux"
+NAP,59.04,Commerce de gros de produits pétroliers
+NAP,59.05,Commerce de métaux
+NAP,59.06,Commerce de produits chimiques industriels
+NAP,59.07,Commerce du bois
+NAP,59.08,"Commerce de matériaux de construction, de verre à vitres et d'appareils sanitaires"
+NAP,59.09,Commerce de matériel agricole
+NAP,59.10,Commerce d'équipements et de fournitures pour l'industrie
+NAP,59.11,Commerce de matériel et mobilier de bureau
+NAP,59.12,Commerce de matériel pour le bâtiment et les travaux publics
+NAP,59.13,Commerce de fournitures diverses pour les utilisateurs professionnels du commerce et des services
+NAP,59.14,Commerce de papiers et cartons en l'état
+NAP,60.01,"Intermédiaires du commerce en matières premières agricoles, animaux vivants, matières premières textiles et demi produits"
+NAP,60.02,"Intermédiaires du commerce en combustibles, métaux, minéraux et produits chimiques pour l'industrie"
+NAP,60.03,Intermédiaires du commerce en bois et matériaux de construction
+NAP,60.04,"Intermédiaires du commerce en machines, matériel et véhicules"
+NAP,60.05,"Intermédiaires du commerce en meubles, articles de ménage et quincaillerie"
+NAP,60.06,"Intermédiaires du commerce en textiles habillement, chaussures et articles en cuir"
+NAP,60.07,Intermédiaires du commerce spécialisés en produits alimentaires
+NAP,60.08,Centrales d'achats en produits alimentaires
+NAP,60.09,Intermédiaires du commerce spécialisés en produits non désignés ailleurs
+NAP,60.10,Intermédiaires du commerce en produits divers (sans prédominance)
+NAP,60.11,Centrales d'achats en produits non alimentaires
+NAP,61.01,Exploitation de super marchés
+NAP,61.02,Exploitation de magasins populaires
+NAP,61.03,Exploitation d'hypermarchés
+NAP,62.11,Commerce de détail indépendant d'alimentation générale
+NAP,62.12,Exploitation de supérettes indépendantes
+NAP,62.21,Exploitation de magasins d'alimentation générale dépendant d'une entreprise à magasins multiples
+NAP,62.22,Exploitation de supérettes dépendant d'une entreprise à magasins multiples
+NAP,62.30,Coopératives alimentaires d'entreprise ou d'administration
+NAP,62.41,Commerce de détail de fruits et légumes
+NAP,62.42,Commerce de détail de produits laitiers
+NAP,62.43,Commerce de détail des viandes
+NAP,62.44,Commerce de détail de poissons et coquillages
+NAP,62.45,Commerce de détail de vins et boissons
+NAP,62.46,Commerce de détail de confiserie et commerces de détail alimentaires divers
+NAP,63.01,Grands magasins
+NAP,63.02,Autres grandes surfaces non spécialisées non alimentaires
+NAP,63.03,Grandes surfaces semi spécialisées non alimentaires
+NAP,63.04,Entreprises de vente par correspondance à assortiment général
+NAP,63.05,Autres commerces non alimentaires non spécialisés
+NAP,64.11,Commerce de détail de l'habillement
+NAP,64.12,Commerce de détail de la chaussure voyage
+NAP,64.13,Commerce de détail de la maroquinerie et des articles de voyage
+NAP,64.14,Commerce de détail des textiles pour la maison
+NAP,64.21,Commerce de détail du meuble
+NAP,64.22,Commerce de détail de quincaillerie et d'appareils ménagers
+NAP,64.23,"Commerce de détail de la droguerie, couleurs vernis"
+NAP,64.24,"Commerce de détail de matériel électrique, radioélectrique et électroménager"
+NAP,64.25,Autres commerces de détail de l'équipement du foyer
+NAP,64.30,Pharmacies
+NAP,64.40,Commerce de détail d'articles médicaux et de produits de beauté
+NAP,64.41,"Commerce de détail et réparation de motocycles, cycles et véhicules divers"
+NAP,64.42,Commerce de détail des charbons et combustibles
+NAP,64.43,"Commerce de détail de livres, papeterie et fournitures de bureau"
+NAP,64.44,Commerce de détail d'optique (médicale et non médicale) et de photographie
+NAP,64.45,Commerce de détail de l'horlogerie-bijouterie
+NAP,64.46,"Commerce de détail de fleurs, graines et petits animaux d'agrément"
+NAP,64.47,Commerce de détail d'articles de sport et de camping
+NAP,64.48,Commerce de détail du tabac
+NAP,64.49,Commerces de détail divers
+NAP,68.01,Transports ferroviaires
+NAP,69.11,Transports routiers de marchandises en zone longue
+NAP,69.12,Camionnage et transport routier de marchandises en zone courte
+NAP,69.21,Transports urbains de voyageurs
+NAP,69.22,Transports routiers de voyageurs
+NAP,69.23,Taxis
+NAP,69.24,Déménagement
+NAP,69.25,Location de véhicules industriels
+NAP,69.26,Transport par conduite
+NAP,70.01,Transports fluviaux de passagers
+NAP,70.02,Transports fluviaux de marchandises
+NAP,71.01,Transports maritimes autres que de produits pétroliers
+NAP,71.02,Transports maritimes de produits pétroliers
+NAP,71.03,Navigation côtière et d'estuaire
+NAP,72.01,Transports aériens
+NAP,73.01,Gares routières
+NAP,73.02,Ports fluviaux et voies fluviales
+NAP,73.03,Ports maritimes
+NAP,73.04,Aéroports
+NAP,73.05,Exploitation d'ouvrages routiers à péage
+NAP,73.06,Exploitation de parkings
+NAP,73.07,Entrepôts autres que frigorifiques
+NAP,73.08,Entrepôts frigorifiques
+NAP,73.09,Remorquage et pilotage
+NAP,74.01,Collecte de fret maritime
+NAP,74.02,Collecte de fret aérien
+NAP,74.03,Collecte de fret terrestre et fluvial
+NAP,74.04,Manutention portuaire
+NAP,74.05,Manutention terrestre et fluviale
+NAP,74.06,Activités spécifiques d'auxiliaires des transports maritimes
+NAP,74.07,Activités spécifiques d'auxiliaires de transport aérien
+NAP,74.08,Autres auxiliaires des transports
+NAP,74.09,Agences de voyages
+NAP,74.10,Routage
+NAP,75.01,P.T.T. - services communs et recherche
+NAP,75.02,P.T.T. - services de télécommunications
+NAP,75.03,P.T.T. - services postaux et financiers
+NAP,75.04,Activités de télécommunications hors p.t.t.
+NAP,65.01,Commerce de détail d'accessoires et d'équipements automobiles
+NAP,65.02,Commerce de détail de carburants et lubrifiants
+NAP,65.03,Vente et réparation de véhicules automobiles
+NAP,65.06,Réparation de véhicules automobiles
+NAP,67.01,Restaurants et cafés-restaurants (sans hébergement)
+NAP,67.02,Cantines
+NAP,67.03,Traiteurs
+NAP,67.04,Débits de boissons (sans spectacle)
+NAP,67.05,Cafés-tabacs
+NAP,67.06,Débits de boissons avec spectacle
+NAP,67.07,Cafés associés à une autre activité
+NAP,67.08,Hôtels avec restaurant
+NAP,67.09,Hôtels sans restaurant
+NAP,67.10,Wagons-lits et wagons-restaurants
+NAP,67.11,"Foyers d'étudiants et de jeunes travailleurs, résidences universitaires"
+NAP,67.12,Installations d'hébergement à équipements développés
+NAP,67.13,Installations d'hébergement à équipements légers
+NAP,56.01,Récupération de ferraille et vieux métaux non ferreux
+NAP,56.02,Récupération de produits divers
+NAP,76.00,Holdings
+NAP,77.01,Cabinets d'études techniques
+NAP,77.02,Cabinets d'études économiques et sociologiques
+NAP,77.03,Cabinets d'études informatiques et d'organisation
+NAP,77.04,Travaux à façon informatiques
+NAP,77.05,Cabinets d'architecte
+NAP,77.06,Cabinets de métreur et de géomètre
+NAP,77.07,Cabinets de conseils en information et documentation
+NAP,77.08,Cabinets juridiques et offices publics et ministériels
+NAP,77.09,Cabinets d expertise comptable et d analyse financière
+NAP,77.10,Créateurs et intermédiaires en publicité
+NAP,77.11,Régies publicitaires
+NAP,77.12,Travaux à façon divers
+NAP,77.13,Prestation temporaire de personnel
+NAP,77.14,Services divers rendus principalement aux entreprises
+NAP,77.15,Ordres et syndicats professionnels
+NAP,78.01,Auxiliaires financiers
+NAP,78.02,Auxiliaires d'assurances
+NAP,79.01,Promotion immobilière
+NAP,79.02,Promotion en infrastructure (services marchands)
+NAP,79.03,Supports juridiques de programmes
+NAP,79.04,Administration d'immeubles
+NAP,79.05,Administration d'infrastructures
+NAP,79.06,Agences immobilières
+NAP,80.01,Location de machines et équipements agricoles
+NAP,80.02,Location de matériel pour le bâtiment et les travaux publics
+NAP,80.03,Location de matériel de bureau
+NAP,80.04,Location de voitures particulières
+NAP,80.05,Location de wagons
+NAP,80.06,Location de biens de consommation
+NAP,80.07,Crédit-bail mobilier
+NAP,80.08,Location d'autres biens d'équipement
+NAP,82.01,Enseignement général primaire et secondaire (services marchands)
+NAP,82.02,Formation des adultes et formation continue (services marchands)
+NAP,82.03,Autres enseignements spécialisés et professionnels et enseignement supérieur (services marchands)
+NAP,82.04,Enseignement par correspondance (services marchands)
+NAP,82.05,Professeurs indépendants
+NAP,82.06,"Auto-écoles, écoles de pilotage"
+NAP,83.01,Recherche scientifique et technique (services marchands)
+NAP,66.01,Réparation de chaussures et d'autres articles en cuir
+NAP,66.02,Réparation d'appareils électriques pour le ménage
+NAP,66.03,Réparation de montres et horloges de bijouterie
+NAP,66.04,Réparations non désignées ailleurs et sans spécialisation
+NAP,84.01,Médecine systématique et de dépistage (services marchands)
+NAP,84.02,Etablissements hospitaliers généraux
+NAP,84.03,Cliniques générales
+NAP,84.04,Etablissements hospitaliers spécialisés
+NAP,84.05,Cliniques spécialisées
+NAP,84.06,Dispensaires
+NAP,84.07,Autres instituts pour la santé
+NAP,84.08,Laboratoires d'analyses médicales extra-hospitaliers
+NAP,84.09,Centres de transfusion sanguine et banques d'organes
+NAP,84.10,Cabinets de médecin
+NAP,84.11,Cabinets dentaires
+NAP,84.12,Cabinets d'auxiliaires médicaux
+NAP,84.13,Ambulances
+NAP,84.14,"Vétérinaires, cliniques vétérinaires"
+NAP,85.01,Crèches
+NAP,85.02,"Etablissements pour l'enfance protégée, handicapée ou inadaptée (services marchands)"
+NAP,85.03,"Etablissements pour adultes nécessiteux, handicapés, ou inadaptés (services marchands)"
+NAP,85.04,Etablissements pour personnes âgées
+NAP,86.01,Radiodiffusion et télévision
+NAP,86.02,Production de films
+NAP,86.03,Distribution de films
+NAP,86.04,Gestion de salles de cinéma
+NAP,86.05,Gestion de salles de spectacle (services marchands)
+NAP,86.06,Autres spectacles et services récréatifs (services marchands)
+NAP,86.07,Création et interprétation littéraires et artistiques (services marchands)
+NAP,86.08,Services annexes aux spectacles
+NAP,86.09,Jeux de hasard et d'argent
+NAP,86.10,Gestion d'équipements et centres sportifs (services marchands)
+NAP,86.11,Remontées mécaniques
+NAP,86.12,Professeurs de sport et sportifs professionnels
+NAP,87.01,Laverie-blanchisserie-teinturerie de détail
+NAP,87.02,Blanchisserie et teinturerie de gros
+NAP,87.03,Salons de coiffure
+NAP,87.04,Esthétique corporelle
+NAP,87.05,Services funéraires
+NAP,87.06,Studios de photographie
+NAP,87.07,Services personnels divers
+NAP,87.08,Services de nettoyage
+NAP,87.09,Enlèvement des ordures (services marchands)
+NAP,87.10,Autres services d'assainissement (services marchands)
+NAP,81.11,Location de logements
+NAP,81.21,Location d'immeubles à usages industriels et commerciaux
+NAP,81.22,Crédit bail immobilier
+NAP,88.01,"Assurances ""vie et capitalisation"""
+NAP,88.02,"Assurances ""i.a.r.d."""
+NAP,88.03,Réassurance
+NAP,88.04,Assurances relevant du code de la mutualité
+NAP,88.05,Caisses de retraites relevant de la législation sur les assurances
+NAP,89.01,Instituts d'émission
+NAP,89.02,"Banques de dépôts, d'affaires, de crédit à long et moyen terme"
+NAP,89.03,Crédit coopératif et mutuel
+NAP,89.04,Etablissements financiers et unions économiques
+NAP,89.05,Organismes financiers à statut légal spécial
+NAP,89.06,Organismes de répartition d'emprunts collectifs obligataires
+NAP,89.07,Sociétés de placements en valeurs mobilières
+NAP,90.01,Pouvoirs publics
+NAP,90.02,Administration centrale
+NAP,90.03,Services extérieurs des administrations économiques et financières
+NAP,90.04,Services extérieurs des autres administrations
+NAP,90.05,Activités administratives spécialisées diverses
+NAP,90.11,Administration locale
+NAP,90.12,Promotion en infrastructure (services non marchands à caractère public)
+NAP,90.13,Voirie et assainissement (services non marchand à caractère public)
+NAP,90.21,Cours et tribunaux
+NAP,90.22,Etablissements pénitentiaires
+NAP,90.23,Etablissements d'éducation surveillée
+NAP,90.24,Police nationale
+NAP,90.25,Protection civile
+NAP,90.26,Gendarmerie
+NAP,90.31,Commandements territoriaux militaires
+NAP,90.32,Forces et infrastructures des forces
+NAP,90.33,"Dépôts, magasins et organismes d'approvisionnement militaire"
+NAP,90.34,Ecoles militaires
+NAP,90.35,Service de santé militaire
+NAP,90.36,Laboratoires et centres d'essais militaires
+NAP,91.01,Organismes généraux de la sécurité sociale
+NAP,91.02,"Sécurité sociale : maladie, maternité, accidents de travail"
+NAP,91.03,Sécurité sociale : vieillesse
+NAP,91.04,Caisses de retraites ne relevant pas de la législation sur les assurances
+NAP,91.05,Sécurité sociale : allocations familiales
+NAP,91.06,Couverture du risque chômage et autres garanties du maintien du revenu
+NAP,92.11,Enseignement préscolaire (services non marchands à caractère public)
+NAP,92.12,Enseignement élémentaire (services non marchands à caractère public)
+NAP,92.13,Enseignement du second degré premier cycle (services non marchands à caractère public)
+NAP,92.14,Enseignement du second degré second cycle (services non marchands à caractère public)
+NAP,92.15,Enseignement supérieur (services non marchands à caractère public)
+NAP,92.16,Enseignement artistique (services non marchands à caractère public)
+NAP,92.17,Formation de fonctionnaires (services non marchands à caractère public)
+NAP,92.18,Formation des adultes et formation continue (services non marchands à caractère public)
+NAP,92.21,Enseignement.(services non marchands à caractère privé)
+NAP,93.11,Recherche scientifique et technique (services non marchands à caractère public)
+NAP,93.21,Recherche scientifique et technique (services non marchands à caractère privé))
+NAP,94.11,Médecine systématique et de dépistage (services non marchands à caractère public)
+NAP,94.21,Médecine systématique et de dépistage (services non marchands à caractère privé))
+NAP,95.11,Organisme locaux d'action sociale (services non marchands à caractère public)
+NAP,95.12,"Etablissements pour l'enfance protégée, handicapée, ou inadaptée (services non marchands à caractère public)"
+NAP,95.13,"Etablissements pour adultes nécessiteux, handicapés, ou inadaptés (services non marchands à caractère public)"
+NAP,95.21,Oeuvres et organismes sociaux à compétence générale (services non marchands à caractère privé)
+NAP,95.22,Oeuvres et organismes sociaux spécialisés (services non marchands à caractère privé)
+NAP,95.23,"Etablissements pour l'enfance protégée, handicapée, inadaptée (services non marchands à caractère privé)"
+NAP,95.24,"Etablissements pour adultes nécessiteux, handicapés ou inadaptés (services non marchands à caractère privé)"
+NAP,96.11,Gestion de bibliothèques (services non marchands à caractère public)
+NAP,96.12,Conservation du patrimoine culturel (services non marchands à caractère public)
+NAP,96.13,Gestion de salles de théâtre (services non marchands à caractère public)
+NAP,96.14,Gestion d'équipements culturels (services non marchands à caractère public)
+NAP,96.15,Gestion d'équipements socio-éducatifs (services non marchands à caractère public)
+NAP,96.16,Associations culturelles et socio-éducatives (services non marchands à caractère public)
+NAP,96.17,Gestion d'équipements sportifs (services non marchands à caractère public)
+NAP,96.18,Associations sportives (services non marchands à caractère public)
+NAP,96.21,Gestion de bibliothèques et conservation du patrimoine culturel (services non marchands à caractère privé)
+NAP,96.22,"Gestion d'équipements culturels, socio-éducatifs et d'autres salles de spectacle (services non marchands à caractère privé)"
+NAP,96.23,Associations culturelles et socio-éducatives (services non marchands à caractère privé)
+NAP,96.24,Gestion d'équipements sportifs (services non marchands à caractère privé)
+NAP,96.25,Associations sportives (services non marchands à caractère privé)
+NAP,97.11,Organisations économiques (services non marchands à caractère public)
+NAP,97.12,Offices du tourisme (services non marchands à caractère public)
+NAP,97.21,Organisations syndicales (services non marchands à caractère prive)
+NAP,97.22,Organisations religieuses et philosophiques (services non marchands à caractère privé)
+NAP,97.23,Autres services fournis à la collectivité (services non marchands à caractère privé)
+NAP,98.01,Services domestiques
+NAP,99.01,Représentation diplomatique étrangère en France ; organismes internationaux

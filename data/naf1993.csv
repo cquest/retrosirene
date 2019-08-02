@@ -1,0 +1,697 @@
+NAF1993,Code,Libellé
+NAF1993,01.1A,Culture de céréales ; cultures industrielles
+NAF1993,01.1C,Culture de légumes ; maraîchage
+NAF1993,01.1D,Horticulture ; pépinières
+NAF1993,01.1F,Culture fruitière
+NAF1993,01.1G,Viticulture
+NAF1993,01.2A,Elevage de bovins
+NAF1993,01.2C,"Elevage d'ovins, caprins et équidés"
+NAF1993,01.2E,Elevage de porcins
+NAF1993,01.2G,Elevage de volailles
+NAF1993,01.2J,Elevage d'autres animaux
+NAF1993,01.3Z,Culture et élevage associés
+NAF1993,01.4A,Services aux cultures productives
+NAF1993,01.4B,Réalisation et entretien de plantations ornementales
+NAF1993,01.4D,Services annexes à l'élevage
+NAF1993,01.5Z,Chasse
+NAF1993,02.0A,Sylviculture
+NAF1993,02.0B,Exploitation forestière
+NAF1993,02.0D,Services forestiers
+NAF1993,05.0A,Pêche
+NAF1993,05.0C,"Pisciculture, aquaculture"
+NAF1993,10.1Z,Extraction et agglomération de la houille
+NAF1993,10.2Z,Extraction et agglomération du lignite
+NAF1993,10.3Z,Extraction et agglomération de la tourbe
+NAF1993,11.1Z,Extraction d'hydrocarbures
+NAF1993,11.2Z,Services annexes à l'extraction d'hydrocarbures
+NAF1993,12.0Z,Extraction de minerais d'uranium
+NAF1993,13.1Z,Extraction de minerais de fer
+NAF1993,13.2Z,Extraction de minerais de métaux non ferreux
+NAF1993,14.1A,Extraction de pierres pour la construction
+NAF1993,14.1C,"Extraction de calcaire industriel, de gypse et de craie"
+NAF1993,14.1E,Extraction d'ardoise
+NAF1993,14.2A,Production de sables et de granulats
+NAF1993,14.2C,Extraction d'argiles et de kaolin
+NAF1993,14.3Z,Extraction de minéraux pour l'industrie chimique et d'engrais naturels
+NAF1993,14.4Z,Production de sel
+NAF1993,14.5Z,Activités extractives n.c.a.
+NAF1993,15.1A,Production de viandes de boucherie
+NAF1993,15.1C,Production de viandes de volailles
+NAF1993,15.1E,Préparation industrielle de produits à base de viandes
+NAF1993,15.1F,Charcuterie
+NAF1993,15.2Z,Industrie du poisson
+NAF1993,15.3A,Transformation et conservation de pommes de terre
+NAF1993,15.3C,Préparation de jus de fruits et légumes
+NAF1993,15.3E,Transformation et conservation de légumes
+NAF1993,15.3F,Transformation et conservation de fruits
+NAF1993,15.4A,Fabrication d'huiles et graisses brutes
+NAF1993,15.4C,Fabrication d'huiles et graisses raffinées
+NAF1993,15.4E,Fabrication de margarine
+NAF1993,15.5A,Fabrication de lait liquide et de produits frais
+NAF1993,15.5B,Fabrication de beurre
+NAF1993,15.5C,Fabrication de fromages
+NAF1993,15.5D,Fabrication d'autres produits laitiers
+NAF1993,15.5F,Fabrication de glaces et sorbets
+NAF1993,15.6A,Meunerie
+NAF1993,15.6B,Autres activités de travail des grains
+NAF1993,15.6D,Fabrication de produits amylacés
+NAF1993,15.7A,Fabrication d'aliments pour animaux de ferme
+NAF1993,15.7C,Fabrication d'aliments pour animaux de compagnie
+NAF1993,15.8A,Fabrication industrielle de pain et de pâtisserie fraîche
+NAF1993,15.8B,Cuisson de produits de boulangerie
+NAF1993,15.8C,Boulangerie et boulangerie-pâtisserie
+NAF1993,15.8D,Pâtisserie
+NAF1993,15.8F,"Biscotterie, biscuiterie, pâtisserie de conservation"
+NAF1993,15.8H,Fabrication de sucre
+NAF1993,15.8K,"Chocolaterie, confiserie"
+NAF1993,15.8M,Fabrication de pâtes alimentaires
+NAF1993,15.8P,Transformation du thé et du café
+NAF1993,15.8R,Fabrication de condiments et assaisonnements
+NAF1993,15.8T,Fabrication d'aliments adaptés à l'enfant et diététiques
+NAF1993,15.8V,Industries alimentaires n.c.a.
+NAF1993,15.9A,Production d'eaux de vie naturelles
+NAF1993,15.9B,Fabrication de spiritueux
+NAF1993,15.9D,Production d'alcool éthylique de fermentation
+NAF1993,15.9F,Champagnisation
+NAF1993,15.9G,Vinification
+NAF1993,15.9J,Cidrerie
+NAF1993,15.9L,Production d'autres boissons fermentées
+NAF1993,15.9N,Brasserie
+NAF1993,15.9Q,Malterie
+NAF1993,15.9S,Industrie des eaux de table
+NAF1993,15.9T,Production de boissons rafraîchissantes
+NAF1993,16.0Z,Industrie du tabac
+NAF1993,17.1A,Filature de l'industrie cotonnière
+NAF1993,17.1C,Filature de l'industrie lainière - cycle cardé
+NAF1993,17.1E,Préparation de la laine
+NAF1993,17.1F,Filature de l'industrie lainière - cycle peigné
+NAF1993,17.1H,Préparation et filature du lin
+NAF1993,17.1K,Moulinage et texturation de la soie et des textiles artificiels ou synthétiques
+NAF1993,17.1M,Fabrication de fils à coudre
+NAF1993,17.1P,Préparation et filature d'autres fibres
+NAF1993,17.2A,Tissage de l'industrie cotonnière
+NAF1993,17.2C,Tissage de l'industrie lainière - cycle cardé
+NAF1993,17.2E,Tissage de l'industrie lainière - cycle peigné
+NAF1993,17.2G,Tissage de soieries
+NAF1993,17.2J,Tissage d'autres textiles
+NAF1993,17.3Z,Ennoblissement textile
+NAF1993,17.4A,Fabrication de linge de maison et d'articles d'ameublement
+NAF1993,17.4B,Fabrication de petits articles textiles de literie
+NAF1993,17.4C,Fabrication d'autres articles confectionnés en textile
+NAF1993,17.5A,Fabrication de tapis et moquettes
+NAF1993,17.5C,"Ficellerie, corderie, fabrication de filets"
+NAF1993,17.5E,Fabrication de non-tissés
+NAF1993,17.5G,Industries textiles n.c.a.
+NAF1993,17.6Z,Fabrication d'étoffes à maille
+NAF1993,17.7A,Fabrication de bas et chaussettes
+NAF1993,17.7C,Fabrication de pull-overs et articles similaires
+NAF1993,18.1Z,Fabrication de vêtements en cuir
+NAF1993,18.2A,Fabrication de vêtements de travail
+NAF1993,18.2C,Fabrication de vêtements sur mesure
+NAF1993,18.2D,Fabrication de vêtements de dessus pour hommes et garçonnets
+NAF1993,18.2E,Fabrication de vêtements de dessus pour femmes et fillettes
+NAF1993,18.2G,Fabrication de vêtements de dessous
+NAF1993,18.2J,Fabrication d'autres vêtements et accessoires
+NAF1993,18.3Z,Industrie des fourrures
+NAF1993,19.1Z,Apprêt et tannage des cuirs
+NAF1993,19.2Z,Fabrication d'articles de voyage et de maroquinerie
+NAF1993,19.3Z,Fabrication de chaussures
+NAF1993,20.1A,Sciage et rabotage du bois
+NAF1993,20.1B,Imprégnation du bois
+NAF1993,20.2Z,Fabrication de panneaux de bois
+NAF1993,20.3Z,Fabrication de charpentes et de menuiseries
+NAF1993,20.4Z,Fabrication d'emballages en bois
+NAF1993,20.5A,Fabrication d'objets divers en bois
+NAF1993,20.5C,"Fabrication d'objets en liège, vannerie ou sparterie"
+NAF1993,21.1A,Fabrication de pâte à papier
+NAF1993,21.1C,Fabrication de papier et de carton
+NAF1993,21.2A,Industrie du carton ondulé
+NAF1993,21.2B,Fabrication de cartonnages
+NAF1993,21.2C,Fabrication d'emballages en papier
+NAF1993,21.2E,Fabrication d'articles en papier à usage sanitaire ou domestique
+NAF1993,21.2G,Fabrication d'articles de papeterie
+NAF1993,21.2J,Fabrication de papiers peints
+NAF1993,21.2L,Fabrication d'autres articles en papier ou en carton
+NAF1993,22.1A,Edition de livres
+NAF1993,22.1C,Edition de journaux
+NAF1993,22.1E,Edition de revues et périodiques
+NAF1993,22.1G,Edition d'enregistrements sonores
+NAF1993,22.1J,Autres activités d'édition
+NAF1993,22.2A,Imprimerie de journaux
+NAF1993,22.2C,Autre imprimerie (labeur)
+NAF1993,22.2E,Reliure et finition
+NAF1993,22.2G,Composition et photogravure
+NAF1993,22.2J,Autres activités graphiques
+NAF1993,22.3A,Reproduction d'enregistrements sonores
+NAF1993,22.3C,Reproduction d'enregistrements vidéo
+NAF1993,22.3E,Reproduction d'enregistrements informatiques
+NAF1993,23.1Z,Cokéfaction
+NAF1993,23.2Z,Raffinage de pétrole
+NAF1993,23.3Z,Elaboration et transformation de matières nucléaires
+NAF1993,24.1A,Fabrication de gaz industriels
+NAF1993,24.1C,Fabrication de colorants et de pigments
+NAF1993,24.1E,Fabrication d'autres produits chimiques inorganiques de base
+NAF1993,24.1G,Fabrication d'autres produits chimiques organiques de base
+NAF1993,24.1J,Fabrication de produits azotés et d'engrais
+NAF1993,24.1L,Fabrication de matières plastiques de base
+NAF1993,24.1N,Fabrication de caoutchouc synthétique
+NAF1993,24.2Z,Fabrication de produits agrochimiques
+NAF1993,24.3Z,Fabrication de peintures et vernis
+NAF1993,24.4A,Fabrication de produits pharmaceutiques de base
+NAF1993,24.4C,Fabrication de médicaments
+NAF1993,24.4D,Fabrication d'autres produits pharmaceutiques
+NAF1993,24.5A,"Fabrication de savons, détergents et produits d'entretien"
+NAF1993,24.5C,Fabrication de parfums et de produits pour la toilette
+NAF1993,24.6A,Fabrication de produits explosifs
+NAF1993,24.6C,Fabrication de colles et gélatines
+NAF1993,24.6E,Fabrication d'huiles essentielles
+NAF1993,24.6G,Fabrication de produits chimiques pour la photographie
+NAF1993,24.6J,Fabrication de supports de données
+NAF1993,24.6L,Fabrication de produits chimiques à usage industriel
+NAF1993,24.7Z,Fabrication de fibres artificielles ou synthétiques
+NAF1993,25.1A,Fabrication de pneumatiques
+NAF1993,25.1C,Rechapage de pneumatiques
+NAF1993,25.1E,Fabrication d'autres articles en caoutchouc
+NAF1993,25.2A,"Fabrication de plaques, feuilles, tubes et profilés en matières plastiques"
+NAF1993,25.2C,Fabrication d'emballages en matières plastiques
+NAF1993,25.2E,Fabrication d'éléments en matières plastiques pour la construction
+NAF1993,25.2G,Fabrication d'articles divers en matières plastiques
+NAF1993,25.2H,Fabrication de pièces techniques en matières plastiques
+NAF1993,26.1A,Fabrication de verre plat
+NAF1993,26.1C,Façonnage et transformation du verre plat
+NAF1993,26.1E,Fabrication de verre creux
+NAF1993,26.1G,Fabrication de fibres de verre
+NAF1993,26.1J,Fabrication et façonnage d'articles techniques en verre
+NAF1993,26.1K,Fabrication d'isolateurs en verre
+NAF1993,26.2A,Fabrication d'articles céramiques à usage domestique ou ornemental
+NAF1993,26.2C,Fabrication d'appareils sanitaires en céramique
+NAF1993,26.2E,Fabrication d'isolateurs et pièces isolantes en céramique
+NAF1993,26.2G,Fabrication d'autres produits céramiques à usage technique
+NAF1993,26.2J,Fabrication d'autres produits céramiques
+NAF1993,26.2L,Fabrication de produits céramiques réfractaires
+NAF1993,26.3Z,Fabrication de carreaux en céramique
+NAF1993,26.4A,Fabrication de briques
+NAF1993,26.4B,Fabrication de tuiles
+NAF1993,26.4C,Fabrication de produits divers en terre cuite
+NAF1993,26.5A,Fabrication de ciment
+NAF1993,26.5C,Fabrication de chaux
+NAF1993,26.5E,Fabrication de plâtre
+NAF1993,26.6A,Fabrication d'éléments en béton pour la construction
+NAF1993,26.6C,Fabrication d'éléments en plâtre pour la construction
+NAF1993,26.6E,Fabrication de béton prêt à l'emploi
+NAF1993,26.6G,Fabrication de mortiers et bétons secs
+NAF1993,26.6J,Fabrication d'ouvrages en fibre-ciment
+NAF1993,26.6L,Fabrication d'autres ouvrages en béton ou en plâtre
+NAF1993,26.7Z,Travail de la pierre
+NAF1993,26.8A,Fabrication de produits abrasifs
+NAF1993,26.8C,Fabrication de produits minéraux non métalliques n.c.a.
+NAF1993,27.1Z,Sidérurgie (CECA)
+NAF1993,27.2A,Fabrication de tubes en fonte
+NAF1993,27.2C,Fabrication de tubes en acier
+NAF1993,27.3A,Etirage à froid
+NAF1993,27.3C,Laminage à froid de feuillards
+NAF1993,27.3E,Profilage à froid par formage ou pliage
+NAF1993,27.3G,Tréfilage à froid
+NAF1993,27.3J,Production de ferroalliages et autres produits non CECA
+NAF1993,27.4A,Production de métaux précieux
+NAF1993,27.4C,Production d'aluminium
+NAF1993,27.4D,Première transformation de l'aluminium
+NAF1993,27.4F,"Production de plomb, de zinc ou d'étain"
+NAF1993,27.4G,"Première transformation du plomb, du zinc ou de l'étain"
+NAF1993,27.4J,Production de cuivre
+NAF1993,27.4K,Première transformation du cuivre
+NAF1993,27.4M,Métallurgie des autres métaux non ferreux
+NAF1993,27.5A,Fonderie de fonte
+NAF1993,27.5C,Fonderie d'acier
+NAF1993,27.5E,Fonderie de métaux légers
+NAF1993,27.5G,Fonderie d'autres métaux non ferreux
+NAF1993,28.1A,Fabrication de constructions métalliques
+NAF1993,28.1C,Fabrication de menuiseries et fermetures métalliques
+NAF1993,28.2A,Fabrication de réservoirs et citernes métalliques
+NAF1993,28.2B,Fabrication de bouteilles pour gaz comprimés
+NAF1993,28.2D,Fabric. radiateurs et chaudières pour chauffage central
+NAF1993,28.3A,Fabrication de générateurs de vapeur
+NAF1993,28.3B,Chaudronnerie nucléaire
+NAF1993,28.3C,Chaudronnerie-tuyauterie
+NAF1993,28.4A,"Forge, estampage, matriçage"
+NAF1993,28.4B,"Découpage, emboutissage"
+NAF1993,28.4C,Métallurgie des poudres
+NAF1993,28.5A,Traitement et revêtement des métaux
+NAF1993,28.5C,Décolletage
+NAF1993,28.5D,Mécanique générale
+NAF1993,28.6A,Fabrication de coutellerie
+NAF1993,28.6C,Fabrication d'outillage à main
+NAF1993,28.6D,Fabrication d'outillage mécanique
+NAF1993,28.6F,Fabrication de serrures et de ferrures
+NAF1993,28.7A,Fabrication de fûts et emballages métalliques similaires
+NAF1993,28.7C,Fabrication d'emballages métalliques légers
+NAF1993,28.7E,Fabrication d'articles en fils métalliques
+NAF1993,28.7G,Visserie et boulonnerie
+NAF1993,28.7H,Fabrication de ressorts
+NAF1993,28.7J,Fabrication de chaînes
+NAF1993,28.7L,Fabrication d'articles métalliques ménagers
+NAF1993,28.7M,Fabrication de coffres-forts
+NAF1993,28.7N,Fabrication de petits articles métalliques
+NAF1993,28.7P,Fabrication d'articles métalliques n.c.a.
+NAF1993,29.1A,Fabrication de moteurs et turbines
+NAF1993,29.1C,Fabrication de pompes et compresseurs
+NAF1993,29.1D,Fabrication de transmissions hydrauliques et pneumatiques
+NAF1993,29.1F,Fabrication d'articles de robinetterie
+NAF1993,29.1H,Fabrication de roulements
+NAF1993,29.1J,Fabrication d'organes mécaniques de transmission
+NAF1993,29.2A,Fabrication de fours et brûleurs
+NAF1993,29.2C,"Fabric. ascenseurs, monte-charges et escaliers mécaniques"
+NAF1993,29.2D,Fabrication d'équipements de levage et de manutention
+NAF1993,29.2F,Fabrication d'équipements aérauliques et frigorifiques industriels
+NAF1993,29.2H,Fabrication d'équipements d'emballage et de conditionnement
+NAF1993,29.2J,Fabrication d'appareils de pesage
+NAF1993,29.2K,Fabrication de machines diverses d'usage général
+NAF1993,29.3A,Fabrication de tracteurs agricoles
+NAF1993,29.3C,Réparation de matériel agricole
+NAF1993,29.3D,Fabrication de matériel agricole
+NAF1993,29.4A,Fabrication de machines-outils à métaux
+NAF1993,29.4B,Fabrication de machines-outils à bois
+NAF1993,29.4C,Fabrication de machines-outils portatives à moteur incorporé
+NAF1993,29.4D,Fabrication de matériel de soudage
+NAF1993,29.4E,Fabrication d'autres machines-outils
+NAF1993,29.5A,Fabrication de machines pour la métallurgie
+NAF1993,29.5C,Fabrication de machines pour l'extraction ou la construction
+NAF1993,29.5E,Fabrication de machines pour l'industrie agroalimentaire
+NAF1993,29.5G,Fabrication de machines pour les industries textiles
+NAF1993,29.5J,Fabrication de machines pour les industries du papier et du carton
+NAF1993,29.5L,Fabrication de machines d'imprimerie
+NAF1993,29.5M,Fabrication de machines pour le travail du caoutchouc ou des plastiques
+NAF1993,29.5N,Fabrication de moules et modèles
+NAF1993,29.5P,Fabrication d'autres machines spécialisées
+NAF1993,29.6A,Fabrication d'armement
+NAF1993,29.6B,"Fabrication d'armes de chasse, de tir et de défense"
+NAF1993,29.7A,Fabrication d'appareils électroménagers
+NAF1993,29.7C,Fabrication d'appareils ménagers non électriques
+NAF1993,30.0A,Fabrication de machines de bureau
+NAF1993,30.0C,Fabrication d'ordinateurs et d'autres équipements informatiques
+NAF1993,31.1A,"Fabrication de moteurs, génératrices et transformateurs électriques de petite et moyenne puissance"
+NAF1993,31.1B,"Fabrication de moteurs, génératrices et transformateurs électriques de très grande puissance"
+NAF1993,31.1C,Réparation de matériels électriques
+NAF1993,31.2A,Fabrication de matériel de distribution et de commande électrique pour basse tension
+NAF1993,31.2B,Fabrication de matériel de distribution et de commande électrique pour haute tension
+NAF1993,31.3Z,Fabrication de fils et câbles isolés
+NAF1993,31.4Z,Fabrication d'accumulateurs et de piles électriques
+NAF1993,31.5A,Fabrication de lampes
+NAF1993,31.5B,Fabrication d'appareils électriques autonomes de sécurité
+NAF1993,31.5C,Fabrication d'appareils d'éclairage
+NAF1993,31.6A,Fabrication de matériels électriques pour moteurs et véhicules
+NAF1993,31.6C,Fabrication de matériel électromagnétique industriel
+NAF1993,31.6D,Fabrication de matériels électriques n.c.a.
+NAF1993,32.1A,Fabrication de composants passifs et de condensateurs
+NAF1993,32.1B,Fabrication de composants électroniques actifs
+NAF1993,32.2A,Fabrication d'équipements d'émission et de transmission hertzienne
+NAF1993,32.2B,Fabrication d'appareils de téléphonie
+NAF1993,32.3Z,"Fabrication d'appareils de réception, enregistrement ou reproduction du son et de l'image"
+NAF1993,33.1A,Fabrication de matériel d'imagerie médicale et de radiologie
+NAF1993,33.1B,Fabrication d'appareils médicochirurgicaux
+NAF1993,33.2A,Fabrication d'équipements d'aide à la navigation
+NAF1993,33.2B,Fabrication d'instrumentation scientifique et technique
+NAF1993,33.3Z,Fabrication d'équipements de contrôle des processus industriels
+NAF1993,33.4A,Fabrication de lunettes
+NAF1993,33.4B,Fabrication d'instruments d'optique et de matériel photographique
+NAF1993,33.5Z,Horlogerie
+NAF1993,34.1Z,Construction de véhicules automobiles
+NAF1993,34.2A,Fabrication de carrosseries automobiles
+NAF1993,34.2B,Fabrications de caravanes et véhicules de loisirs
+NAF1993,34.3Z,Fabrication d'équipements automobiles
+NAF1993,35.1A,Construction de bâtiments de guerre
+NAF1993,35.1B,Construction de navires civils
+NAF1993,35.1C,Réparation navale
+NAF1993,35.1E,Construction de bateaux de plaisance
+NAF1993,35.2Z,Construction de matériel ferroviaire roulant
+NAF1993,35.3A,Construction de moteurs pour aéronefs
+NAF1993,35.3B,Construction de cellules d'aéronefs
+NAF1993,35.3C,Construction de lanceurs et engins spatiaux
+NAF1993,35.4A,Fabrication de motocycles
+NAF1993,35.4C,Fabrication de bicyclettes
+NAF1993,35.4E,Fabrication de véhicules pour invalides
+NAF1993,35.5Z,Fabrication de matériels de transport n.c.a.
+NAF1993,36.1A,Fabrication de sièges
+NAF1993,36.1C,Fabrication de meubles de bureau et de magasin
+NAF1993,36.1E,Fabrication de meubles de cuisine
+NAF1993,36.1G,Fabrication de meubles meublants
+NAF1993,36.1H,Fabrication de meubles de jardin et d'extérieur
+NAF1993,36.1J,Fabrication de meubles n.c.a.
+NAF1993,36.1K,Industries connexes de l'ameublement
+NAF1993,36.1M,Fabrication de matelas
+NAF1993,36.2A,Fabrication de monnaies et médailles
+NAF1993,36.2C,"Bijouterie, joaillerie, orfèvrerie"
+NAF1993,36.3Z,Fabrication d'instruments de musique
+NAF1993,36.4Z,Fabrication d'articles de sport
+NAF1993,36.5Z,Fabrication de jeux et jouets
+NAF1993,36.6A,Bijouterie fantaisie
+NAF1993,36.6C,Industrie de la brosserie
+NAF1993,36.6E,Autres activités manufacturières n.c.a.
+NAF1993,37.1Z,Récupération de matières métalliques recyclables
+NAF1993,37.2Z,Récupération de matières non métalliques recyclables
+NAF1993,40.1Z,Production et distribution d'électricité
+NAF1993,40.2Z,Production et distribution de combustibles gazeux
+NAF1993,40.3Z,Production et distribution de chaleur
+NAF1993,41.0Z,"Captage, traitement et distribution d'eau"
+NAF1993,45.1A,"Terrassements divers, démolition"
+NAF1993,45.1B,Terrassements en grande masse
+NAF1993,45.1D,Forages et sondages
+NAF1993,45.2A,Construction de maisons individuelles
+NAF1993,45.2B,Construction de bâtiments divers
+NAF1993,45.2C,Construction d'ouvrages d'art
+NAF1993,45.2D,Travaux souterrains
+NAF1993,45.2E,Réalisation de réseaux
+NAF1993,45.2F,Construction de lignes électriques et de télécommunication
+NAF1993,45.2J,Réalisation de couvertures par éléments
+NAF1993,45.2K,Travaux d'étanchéification
+NAF1993,45.2L,Travaux de charpente
+NAF1993,45.2N,Construction de voies ferrées
+NAF1993,45.2P,Construction de chaussées routières et de sols sportifs
+NAF1993,45.2R,Travaux maritimes et fluviaux
+NAF1993,45.2T,"Levage, montage"
+NAF1993,45.2U,Autres travaux spécialisés de construction
+NAF1993,45.2V,Travaux de maçonnerie générale
+NAF1993,45.3A,Travaux d'installation électrique
+NAF1993,45.3C,Travaux d'isolation
+NAF1993,45.3E,Installation d'eau et de gaz
+NAF1993,45.3F,Installation d'équipements thermiques et de climatisation
+NAF1993,45.3H,Autres travaux d'installation
+NAF1993,45.4A,Plâtrerie
+NAF1993,45.4C,Menuiserie bois et matières plastiques
+NAF1993,45.4D,Menuiserie métallique ; serrurerie
+NAF1993,45.4F,Revêtement des sols et des murs
+NAF1993,45.4H,"Miroiterie de bâtiment, vitrerie"
+NAF1993,45.4J,Peinture
+NAF1993,45.4L,Agencement de lieux de vente
+NAF1993,45.4M,Travaux de finition n.c.a.
+NAF1993,45.5Z,Location avec opérateur de matériel de construction
+NAF1993,50.1Z,Commerce de véhicules automobiles
+NAF1993,50.2Z,Entretien et réparation de véhicules automobiles
+NAF1993,50.3A,Commerce de gros d'équipements automobiles
+NAF1993,50.3B,Commerce de détail d'équipements automobiles
+NAF1993,50.4Z,Commerce et réparation de motocycles
+NAF1993,50.5Z,Commerce de détail de carburants
+NAF1993,51.1A,"Intermédiaires du commerce en matières premières agricoles, animaux vivants, matières premières textiles et demi-produits"
+NAF1993,51.1C,"Intermédiaires du commerce combustibles, métaux, minéraux et produits chimiques"
+NAF1993,51.1E,Intermédiaires du commerce en bois et matériaux de construction
+NAF1993,51.1G,"Intermédiaires du commerce en machines, équipements industriels, navires et avions"
+NAF1993,51.1J,"Intermédiaires du commerce en meubles, articles de ménage et quincaillerie"
+NAF1993,51.1L,"Intermédiaires du commerce en textiles, habillement, chaussures et articles en cuir"
+NAF1993,51.1N,Intermédiaires du commerce en produits alimentaires
+NAF1993,51.1P,Centrales d'achats alimentaires
+NAF1993,51.1R,Autres intermédiaires spécialisés du commerce
+NAF1993,51.1T,Intermédiaires non spécialisés du commerce
+NAF1993,51.1U,Centrales d'achats non alimentaires
+NAF1993,51.2A,Commerce de gros de céréales et aliments pour le bétail
+NAF1993,51.2C,Commerce de gros de fleurs et plantes
+NAF1993,51.2E,Commerce de gros d'animaux vivants
+NAF1993,51.2G,Commerce de gros de cuirs et peaux
+NAF1993,51.2J,Commerce de gros de tabac non manufacturé
+NAF1993,51.3A,Commerce de gros de fruits et légumes
+NAF1993,51.3C,Commerce de gros de viandes de boucherie
+NAF1993,51.3D,Commerce de gros de produits à base de viande
+NAF1993,51.3E,Commerce de gros de volailles et gibiers
+NAF1993,51.3G,"Commerce de gros de produits laitiers, oeufs, huiles"
+NAF1993,51.3J,Commerce de gros de boissons
+NAF1993,51.3L,Commerce de gros de tabac
+NAF1993,51.3N,"Commerce de gros de sucre, chocolat et confiserie"
+NAF1993,51.3Q,"Commerce de gros de café, thé, cacao et épices"
+NAF1993,51.3S,"Commerce de gros de poissons, crustacés et mollusques"
+NAF1993,51.3T,Commerces de gros alimentaires spécialisés divers
+NAF1993,51.3V,Commerce de gros de produits surgelés
+NAF1993,51.3W,Commerce de gros alimentaire non spécialisé
+NAF1993,51.4A,Commerce de gros de textiles
+NAF1993,51.4C,Commerce de gros d'habillement
+NAF1993,51.4D,Commerce de gros de la chaussure
+NAF1993,51.4F,Commerce gros appareils électroménagers et radiotélévision
+NAF1993,51.4H,Commerce de gros de vaisselle et verrerie de ménage
+NAF1993,51.4J,Commerce de gros de produits pour l'entretien et l'aménagement de l'habitat
+NAF1993,51.4L,Commerce de gros de parfumerie et de produits de beauté
+NAF1993,51.4N,Commerce de gros de produits pharmaceutiques
+NAF1993,51.4Q,Commerce de gros de papeterie
+NAF1993,51.4R,Commerce de gros de jouets
+NAF1993,51.4S,Autres commerces de gros de biens de consommation
+NAF1993,51.5A,Commerce de gros de combustibles
+NAF1993,51.5C,Commerce de gros de minerais et métaux
+NAF1993,51.5E,Commerce de gros de bois et de produits dérivés
+NAF1993,51.5F,Commerce de gros de matériaux de construction et d'appareils sanitaires
+NAF1993,51.5H,Commerce de gros de quincaillerie
+NAF1993,51.5J,Commerce de gros de fournitures pour plomberie et chauffage
+NAF1993,51.5L,Commerce de gros de produits chimiques
+NAF1993,51.5N,Commerce de gros d'autres produits intermédiaires
+NAF1993,51.5Q,Commerce de gros de déchets et débris
+NAF1993,51.6A,Commerce de gros de machines-outils
+NAF1993,51.6C,Commerce de gros d'équipements pour la construction
+NAF1993,51.6E,Commerce de gros de machines pour l'industrie textile et l'habillement
+NAF1993,51.6G,Commerce de gros de machines de bureau et de matériel informatique
+NAF1993,51.6J,Commerce de gros de matériel électrique et électronique
+NAF1993,51.6K,Commerce gros fournitures et équipements industriels divers
+NAF1993,51.6L,Commerce de gros de fournitures et équipements divers pour le commerce et les services
+NAF1993,51.6N,Commerce de gros de matériel agricole
+NAF1993,51.7Z,Commerce de gros non spécialisé
+NAF1993,52.1A,Commerce de détail de produits surgelés
+NAF1993,52.1B,Commerce d'alimentation générale
+NAF1993,52.1C,Supérettes
+NAF1993,52.1D,Supermarchés
+NAF1993,52.1E,Magasins populaires
+NAF1993,52.1F,Hypermarchés
+NAF1993,52.1H,Grands magasins
+NAF1993,52.1J,Autres commerces de détail en magasin non spécialisé
+NAF1993,52.2A,Commerce de détail de fruits et légumes
+NAF1993,52.2C,Commerce de détail de viandes et produits à base de viande
+NAF1993,52.2E,"Commerce de détail de poissons, crustacés et mollusques"
+NAF1993,52.2G,"Commerce de détail de pain, pâtisserie et confiserie"
+NAF1993,52.2J,Commerce de détail de boissons
+NAF1993,52.2L,Commerce de détail de tabac
+NAF1993,52.2N,Commerce de détail de produits laitiers
+NAF1993,52.2P,Commerces de détail alimentaires spécialisés divers
+NAF1993,52.3A,Commerce de détail de produits pharmaceutiques
+NAF1993,52.3C,Commerce de détail d'articles médicaux et orthopédiques
+NAF1993,52.3E,Commerce de détail de parfumerie et de produits de beauté
+NAF1993,52.4A,Commerce de détail de textiles
+NAF1993,52.4C,Commerce de détail d'habillement
+NAF1993,52.4E,Commerce de détail de la chaussure
+NAF1993,52.4F,Commerce de détail de maroquinerie et d'articles de voyage
+NAF1993,52.4H,Commerce de détail de meubles
+NAF1993,52.4J,Commerce de détail d'équipement du foyer
+NAF1993,52.4L,Commerce de détail d'appareils électroménagers et de radio télévision
+NAF1993,52.4N,Commerce de détail de quincaillerie
+NAF1993,52.4P,Commerce de détail de bricolage
+NAF1993,52.4R,"Commerce de détail de livres, journaux et papeterie"
+NAF1993,52.4T,Commerce de détail d'optique et de photographie
+NAF1993,52.4U,Commerce de détail de revêtements de sols et de murs
+NAF1993,52.4V,Commerce de détail d'horlogerie et de bijouterie
+NAF1993,52.4W,Commerce de détail d'articles de sport et de loisir
+NAF1993,52.4X,Commerce de détail de fleurs
+NAF1993,52.4Y,Commerce de détail de charbons et combustibles
+NAF1993,52.4Z,Commerces de détail divers en magasin spécialisé
+NAF1993,52.5Z,Commerce de détail de biens d'occasion
+NAF1993,52.6A,Vente par correspondance sur catalogue général
+NAF1993,52.6B,Vente par correspondance spécialisée
+NAF1993,52.6D,Commerce de détail alimentaire sur éventaires et marchés
+NAF1993,52.6E,Commerce de détail non alimentaire sur éventaires et marchés
+NAF1993,52.6G,Vente à domicile
+NAF1993,52.6H,Vente par automate
+NAF1993,52.7A,Réparation de chaussures et d'articles en cuir
+NAF1993,52.7C,Réparation de matériel électronique grand public
+NAF1993,52.7D,Réparation d'appareils électroménagers
+NAF1993,52.7F,"Réparation de montres, horloges et bijoux"
+NAF1993,52.7H,Réparation d'articles personnels et domestiques n.c.a.
+NAF1993,55.1A,Hôtels avec restaurant
+NAF1993,55.1C,Hôtels de tourisme sans restaurant
+NAF1993,55.1D,Hôtels de préfecture
+NAF1993,55.2A,Auberges de jeunesse et refuges
+NAF1993,55.2C,Exploitation de terrains de camping
+NAF1993,55.2E,Autre hébergement touristique
+NAF1993,55.2F,Hébergement collectif non touristique
+NAF1993,55.3A,Restauration de type traditionnel
+NAF1993,55.3B,Restauration de type rapide
+NAF1993,55.4A,Cafés tabacs
+NAF1993,55.4B,Débits de boissons
+NAF1993,55.5A,Cantines et restaurants d'entreprises
+NAF1993,55.5C,Restauration collective sous contrat
+NAF1993,55.5D,"Traiteurs, organisation de réceptions"
+NAF1993,60.1Z,Transports ferroviaires
+NAF1993,60.2A,Transports urbains de voyageurs
+NAF1993,60.2B,Transports routiers réguliers de voyageurs
+NAF1993,60.2C,"Téléphériques, remontées mécaniques"
+NAF1993,60.2E,Transport de voyageurs par taxis
+NAF1993,60.2G,Autres transports routiers de voyageurs
+NAF1993,60.2L,Transports routiers de marchandises de proximité
+NAF1993,60.2M,Transports routiers de marchandises interurbains
+NAF1993,60.2N,Déménagement
+NAF1993,60.2P,Location de camions avec conducteur
+NAF1993,60.3Z,Transports par conduites
+NAF1993,61.1A,Transports maritimes
+NAF1993,61.1B,Transports côtiers
+NAF1993,61.2Z,Transports fluviaux
+NAF1993,62.1Z,Transports aériens réguliers
+NAF1993,62.2Z,Transports aériens non réguliers
+NAF1993,62.3Z,Transports spatiaux
+NAF1993,63.1A,Manutention portuaire
+NAF1993,63.1B,Manutention non portuaire
+NAF1993,63.1D,Entreposage frigorifique
+NAF1993,63.1E,Entreposage non frigorifique
+NAF1993,63.2A,Gestion d'infrastructures de transports terrestres
+NAF1993,63.2C,"Services portuaires, maritimes et fluviaux"
+NAF1993,63.2E,Services aéroportuaires
+NAF1993,63.3Z,Agences de voyage
+NAF1993,63.4A,"Messagerie, fret express"
+NAF1993,63.4B,Affrètement
+NAF1993,63.4C,Organisation des transports internationaux
+NAF1993,64.1A,Postes nationales
+NAF1993,64.1C,Autres activités de courrier
+NAF1993,64.2A,Télécommunications nationales
+NAF1993,64.2B,Autres activités de télécommunications
+NAF1993,65.1A,Banque centrale
+NAF1993,65.1C,Banques
+NAF1993,65.1D,Banques mutualistes
+NAF1993,65.1E,Caisses d'épargne
+NAF1993,65.1F,Intermédiations monétaires n.c.a.
+NAF1993,65.2A,Crédit-bail
+NAF1993,65.2C,Distribution de crédit
+NAF1993,65.2E,Organismes de placement en valeurs mobilières
+NAF1993,65.2F,Intermédiations financières diverses
+NAF1993,66.0A,Assurance-vie et capitalisation
+NAF1993,66.0C,Caisses de retraite
+NAF1993,66.0E,Assurance dommages
+NAF1993,66.0F,Réassurance
+NAF1993,66.0G,Assurance relevant du code de la mutualité
+NAF1993,67.1A,Administration de marchés financiers
+NAF1993,67.1C,Gestion de portefeuilles
+NAF1993,67.1E,Autres auxiliaires financiers
+NAF1993,67.2Z,Auxiliaires d'assurance
+NAF1993,70.1A,Promotion immobilière de logements
+NAF1993,70.1B,Promotion immobilière de bureaux
+NAF1993,70.1C,Promotion immobilière d'infrastructures
+NAF1993,70.1D,Supports juridiques de programme
+NAF1993,70.1F,Marchands de biens immobiliers
+NAF1993,70.2A,Location de logements
+NAF1993,70.2B,Location de terrains
+NAF1993,70.2C,Location d'autres biens immobiliers
+NAF1993,70.3A,Agences immobilières
+NAF1993,70.3C,Administration d'immeubles résidentiels
+NAF1993,70.3D,Administration d'autres biens immobiliers
+NAF1993,70.3E,Supports juridiques de gestion de patrimoine
+NAF1993,71.1Z,Location de véhicules automobiles
+NAF1993,71.2A,Location d'autres matériels de transport terrestre
+NAF1993,71.2C,Location de matériels de transport par eau
+NAF1993,71.2E,Location d'appareils de transport aérien
+NAF1993,71.3A,Location de matériel agricole
+NAF1993,71.3C,Location de machines et équipements pour la construction
+NAF1993,71.3E,Location de machines de bureau et de matériel informatique
+NAF1993,71.3G,Location de machines et équipements divers
+NAF1993,71.4A,Location de linge
+NAF1993,71.4B,Location d'autres biens personnels et domestiques
+NAF1993,72.1Z,Conseil en systèmes informatiques
+NAF1993,72.2Z,Réalisation de logiciels
+NAF1993,72.3Z,Traitement de données
+NAF1993,72.4Z,Activités de banques de données
+NAF1993,72.5Z,Entretien et réparation de machines de bureau et de matériel informatique
+NAF1993,72.6Z,Autres activités rattachées à l'informatique (L'utilisation de cette classe est différée jusqu'à nouvel avis)
+NAF1993,73.1Z,Recherche-développement en sciences physiques et naturelles
+NAF1993,73.2Z,Recherche-développement en sciences humaines et sociales
+NAF1993,74.1A,Activités juridiques
+NAF1993,74.1C,Activités comptables
+NAF1993,74.1E,Etudes de marché et sondages
+NAF1993,74.1G,Conseil pour les affaires et la gestion
+NAF1993,74.1J,Administration d'entreprises
+NAF1993,74.2A,Activités d'architecture
+NAF1993,74.2B,"Métreurs, géomètres"
+NAF1993,74.2C,"Ingénierie, études techniques"
+NAF1993,74.3A,Contrôle technique automobile
+NAF1993,74.3B,"Analyses, essais et inspections techniques"
+NAF1993,74.4A,Gestion de supports de publicité
+NAF1993,74.4B,"Agences, conseil en publicité"
+NAF1993,74.5A,Sélection et mise à disposition de personnel
+NAF1993,74.5B,Travail temporaire
+NAF1993,74.6Z,Enquêtes et sécurité
+NAF1993,74.7Z,Activités de nettoyage
+NAF1993,74.8A,Studios et autres activités photographiques
+NAF1993,74.8B,Laboratoires techniques de développement et de tirage
+NAF1993,74.8D,Conditionnement à façon
+NAF1993,74.8F,Secrétariat et traduction
+NAF1993,74.8G,Routage
+NAF1993,74.8J,Organisation de foires et salons
+NAF1993,74.8K,Services annexes à la production
+NAF1993,75.1A,Administration publique générale
+NAF1993,75.1C,Tutelle des activités sociales
+NAF1993,75.1E,Tutelle des activités économiques
+NAF1993,75.1G,Activités de soutien aux administrations
+NAF1993,75.2A,Affaires étrangères
+NAF1993,75.2C,Défense
+NAF1993,75.2E,Justice
+NAF1993,75.2G,Police
+NAF1993,75.2J,Protection civile
+NAF1993,75.3A,Activités générales de sécurité sociale
+NAF1993,75.3B,Gestion des retraites complémentaires
+NAF1993,75.3C,Distribution sociale de revenus
+NAF1993,80.1Z,Enseignement primaire
+NAF1993,80.2A,Enseignement secondaire général
+NAF1993,80.2C,Enseignement secondaire technique ou professionnel
+NAF1993,80.3Z,Enseignement supérieur
+NAF1993,80.4A,Ecoles de conduite
+NAF1993,80.4C,Formation des adultes et formation continue
+NAF1993,80.4D,Autres enseignements
+NAF1993,85.1A,Activités hospitalières
+NAF1993,85.1C,Pratique médicale
+NAF1993,85.1E,Pratique dentaire
+NAF1993,85.1G,Activités des auxiliaires médicaux
+NAF1993,85.1H,Soins hors d'un cadre réglementé
+NAF1993,85.1J,Ambulances
+NAF1993,85.1K,Laboratoires d'analyses médicales
+NAF1993,85.1L,Centres de collecte et banques d'organes
+NAF1993,85.2Z,Activités vétérinaires
+NAF1993,85.3A,Accueil des enfants handicapés
+NAF1993,85.3B,Accueil des enfants en difficulté
+NAF1993,85.3C,Accueil des adultes handicapés
+NAF1993,85.3D,Accueil des personnes âgées
+NAF1993,85.3E,Autres hébergements sociaux
+NAF1993,85.3G,Crèches et garderies d'enfants
+NAF1993,85.3H,"Aide par le travail, ateliers protégés"
+NAF1993,85.3J,Aide à domicile
+NAF1993,85.3K,Autres formes d'action sociale
+NAF1993,90.0A,Epuration des eaux usées
+NAF1993,90.0B,Enlèvement et traitement des ordures ménagères
+NAF1993,90.0C,Elimination et traitement des autres déchets
+NAF1993,91.1A,Organisations patronales et consulaires
+NAF1993,91.1C,Organisations professionnelles
+NAF1993,91.2Z,Syndicats de salariés
+NAF1993,91.3A,Organisations religieuses
+NAF1993,91.3C,Organisations politiques
+NAF1993,91.3E,Organisations associatives n.c.a.
+NAF1993,92.1A,Production de films pour la télévision
+NAF1993,92.1B,Production de films institutionnels et publicitaires
+NAF1993,92.1C,Production de films pour le cinéma
+NAF1993,92.1D,Prestations techniques pour le cinéma et la télévision
+NAF1993,92.1F,Distribution de films cinématographiques
+NAF1993,92.1G,Edition et distribution vidéo
+NAF1993,92.1J,Projection de films cinématographiques
+NAF1993,92.2A,Activités de radio
+NAF1993,92.2B,Production de programmes de télévision
+NAF1993,92.2C,Diffusion de programmes de télévision
+NAF1993,92.3A,Activités artistiques
+NAF1993,92.3B,Services annexes aux spectacles
+NAF1993,92.3D,Gestion de salles de spectacles
+NAF1993,92.3F,Manèges forains et parcs d'attractions
+NAF1993,92.3H,Bals et discothèques
+NAF1993,92.3J,Autres spectacles
+NAF1993,92.4Z,Agences de presse
+NAF1993,92.5A,Gestion des bibliothèques
+NAF1993,92.5C,Gestion du patrimoine culturel
+NAF1993,92.5E,Gestion du patrimoine naturel
+NAF1993,92.6A,Gestion d'installations sportives
+NAF1993,92.6C,Autres activités sportives
+NAF1993,92.7A,Jeux de hasard et d'argent
+NAF1993,92.7C,Autres activités récréatives
+NAF1993,93.0A,Blanchisserie - teinturerie de gros
+NAF1993,93.0B,Blanchisserie - teinturerie de détail
+NAF1993,93.0D,Coiffure
+NAF1993,93.0E,Soins de beauté
+NAF1993,93.0G,Soins aux défunts
+NAF1993,93.0H,Pompes funèbres
+NAF1993,93.0K,Activités thermales et de thalassothérapie
+NAF1993,93.0L,Autres soins corporels
+NAF1993,93.0N,Autres services personnels
+NAF1993,95.0Z,Services domestiques
+NAF1993,99.0Z,Activités extra-territoriales
