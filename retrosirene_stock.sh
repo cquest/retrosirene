@@ -42,6 +42,9 @@ psql $DB < retrosirene.sql
 psql $DB -c "copy (select * from sirene2017 where ind_publipo = 'A') to STDOUT with (format csv, header true);" | gzip -9 > etablissements_actifs.csv.gz
 psql $DB -c "copy (select * from sirene2017 where ind_publipo = 'F') to STDOUT with (format csv, header true);" | gzip -9 > etablissements_fermes.csv.gz
 
+# upload
+rsync etablissements_*.csv.gz root@data.cquest.org:/var/www/html/data/geo_sirene/$(date -r StockUniteLegale_utf8.zip +%Y-%m) -av
+ssh root@data.cquest.org "cd /var/www/html/data/geo_sirene; cp last/LISEZMOI.txt 2019-08; rm last; ln -s 2019-08 last"
 
 exit
 
