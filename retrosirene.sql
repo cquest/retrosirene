@@ -60,7 +60,7 @@ SELECT
   null as prodet,
   null as prodpart,
   null as auxilt,
-  coalesce(regexp_replace(s.denominationunitelegale, s.nomunitelegale||'*'|| coalesce(s.nomusageunitelegale || '/','') || s.prenom1unitelegale||' '||coalesce(s.prenom2unitelegale,'')||' '||coalesce(s.prenom3unitelegale,'')||' '||coalesce(s.prenom4unitelegale,'')||' ','  +',' ')) as nomen_long,
+  coalesce(s.denominationunitelegale, trim(regexp_replace(s.nomunitelegale||'*'|| coalesce(s.nomusageunitelegale || '/','') || s.prenom1unitelegale||' '||coalesce(s.prenom2unitelegale,'')||' '||coalesce(s.prenom3unitelegale,'')||' '||coalesce(s.prenom4unitelegale,'')||' ','  +',' '))||'/') as nomen_long,
   s.sigleunitelegale as sigle,
   s.nomunitelegale as NOM,
   s.prenom1unitelegale as PRENOM,
