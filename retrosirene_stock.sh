@@ -5,10 +5,10 @@
 
 DB=sirene
 
-wget -N -c http://files.data.gouv.fr/insee-sirene/StockUniteLegale_utf8.zip
-wget -N -c http://files.data.gouv.fr/insee-sirene/StockUniteLegaleHistorique_utf8.zip
-wget -N -c http://files.data.gouv.fr/insee-sirene/StockEtablissementHistorique_utf8.zip
-wget -N -c http://data.cquest.org/geo_sirene/v2019/last/StockEtablissement_utf8_geo.csv.gz
+wget -N http://files.data.gouv.fr/insee-sirene/StockUniteLegale_utf8.zip
+wget -N http://files.data.gouv.fr/insee-sirene/StockUniteLegaleHistorique_utf8.zip
+wget -N http://files.data.gouv.fr/insee-sirene/StockEtablissementHistorique_utf8.zip
+wget -N http://data.cquest.org/geo_sirene/v2019/last/StockEtablissement_utf8_geo.csv.gz
 
 # création de la table SIREN (entreprises)
 psql $DB -c "create table siren_temp (`unzip -p StockUniteLegale_utf8.zip | head -n 1 | sed 's/,/ text,/g;s/$/ text/'`);"
@@ -43,8 +43,9 @@ psql $DB -c "copy (select * from sirene2017 where ind_publipo = 'A') to STDOUT w
 psql $DB -c "copy (select * from sirene2017 where ind_publipo = 'F') to STDOUT with (format csv, header true);" | gzip -9 > etablissements_fermes.csv.gz
 
 # upload
-rsync etablissements_*.csv.gz root@data.cquest.org:/var/www/html/data/geo_sirene/$(date -r StockUniteLegale_utf8.zip +%Y-%m) -av
-ssh root@data.cquest.org "cd /var/www/html/data/geo_sirene; cp last/LISEZMOI.txt 2019-08; rm last; ln -s 2019-08 last"
+DIR=$(date -r StockUniteLegale_utf8.zip +%Y-%m)
+rsync etablissements_*.csv.gz root@192.168.0.72:/local-zfs/opendatarchives/data.cquest.org/geo_sirene/$DIR -av
+ssh root@192.168.0.72 "cd /local-zfs/opendatarchives/data.cquest.org/geo_sirene; cp last/LISEZMOI.txt $DIR; rm -f last; ln -f -s $DIR last"
 
 exit
 
