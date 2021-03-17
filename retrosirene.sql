@@ -111,7 +111,7 @@ SELECT
   e.geo_l5
 FROM siret e
 JOIN siren s ON (e.siren=s.siren)
-JOIN siret siege ON (siege.siret=s.siren||nicsiegeunitelegale)
+LEFT JOIN siret siege ON (siege.siret=s.siren||nicsiegeunitelegale)
 LEFT JOIN siren_histo sh ON (sh.siren=e.siret and sh.datefin is null)
 LEFT JOIN activite a_et ON (a_et.nomenclature = e.nomenclatureactiviteprincipaleetablissement and a_et.code = e.activiteprincipaleetablissement)
 LEFT JOIN activite a_si ON (a_si.nomenclature = s.nomenclatureactiviteprincipaleunitelegale and a_si.code = s.activiteprincipaleunitelegale)
